@@ -295,12 +295,6 @@
       maxZoom: 18
     }).addTo(map);
 
-    // Add Stamen Toner Labels on top for street names
-    L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner_labels/{z}/{x}/{y}{r}.png', {
-      attribution: '',
-      maxZoom: 18,
-      opacity: 0.6
-    }).addTo(map);
 
     const markerClusterGroup = L.markerClusterGroup({
       maxClusterRadius: 35,
