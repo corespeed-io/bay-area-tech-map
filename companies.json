@@ -1,0 +1,1955 @@
+[
+  {
+    "name": "Instacart",
+    "category": "logistics",
+    "description": "Groceries delivered in as little as 1 hour",
+    "address": "50 Beale St #600, San Francisco, CA 94105",
+    "lat": 37.7911,
+    "lng": -122.3961,
+    "website": "https://www.instacart.com/",
+    "logo": "https://logo.clearbit.com/instacart.com"
+  },
+  {
+    "name": "Reddit",
+    "category": "consumer",
+    "description": "Front page of the internet",
+    "address": "303 2nd St, San Francisco, CA 94107",
+    "lat": 37.7851,
+    "lng": -122.3971,
+    "website": "https://www.reddit.com",
+    "logo": "https://logo.clearbit.com/reddit.com"
+  },
+  {
+    "name": "Twitch",
+    "category": "consumer",
+    "description": "Live streaming platform (originally Justin.tv)",
+    "address": "350 Bush St, San Francisco, CA 94104",
+    "lat": 37.7907,
+    "lng": -122.4027,
+    "website": "https://www.twitch.tv",
+    "logo": "https://logo.clearbit.com/twitch.tv"
+  },
+  {
+    "name": "Cruise",
+    "category": "auto",
+    "description": "Self-driving car technology (merged into GM 2025)",
+    "address": "333 Brannan St, San Francisco, CA 94107",
+    "lat": 37.7808,
+    "lng": -122.3925,
+    "website": "https://www.getcruise.com/"
+  },
+  {
+    "name": "Brex",
+    "category": "fintech",
+    "description": "AI-powered spend platform for corporate cards and expenses",
+    "address": "2261 Market St, San Francisco, CA 94114",
+    "lat": 37.7643,
+    "lng": -122.4318,
+    "website": "https://brex.com"
+  },
+  {
+    "name": "Scale AI",
+    "category": "ai",
+    "description": "Data infrastructure for AI using RLHF",
+    "address": "303 2nd St, South Tower FL 5, San Francisco, CA 94107",
+    "lat": 37.7851,
+    "lng": -122.3972,
+    "website": "https://scale.com/",
+    "logo": "https://logo.clearbit.com/scale.com"
+  },
+  {
+    "name": "Faire",
+    "category": "commerce",
+    "description": "Online marketplace matching retailers with brands using ML",
+    "address": "525 2nd St, San Francisco, CA 94107",
+    "lat": 37.7827,
+    "lng": -122.3928,
+    "website": "https://www.faire.com/"
+  },
+  {
+    "name": "GitLab",
+    "category": "dev-tools",
+    "description": "Single application for entire DevOps lifecycle",
+    "address": "268 Bush St #350, San Francisco, CA 94104",
+    "lat": 37.7912,
+    "lng": -122.4018,
+    "website": "https://about.gitlab.com/",
+    "logo": "https://logo.clearbit.com/gitlab.com"
+  },
+  {
+    "name": "Flexport",
+    "category": "logistics",
+    "description": "Global logistics platform managing $19B merchandise",
+    "address": "760 Market St, San Francisco, CA 94102",
+    "lat": 37.7865,
+    "lng": -122.4054,
+    "website": "https://www.flexport.com/",
+    "logo": "https://logo.clearbit.com/flexport.com"
+  },
+  {
+    "name": "Gusto",
+    "category": "hr",
+    "description": "Payroll, benefits, and HR for small businesses",
+    "address": "525 20th St, San Francisco, CA 94107",
+    "lat": 37.7597,
+    "lng": -122.388,
+    "website": "https://gusto.com/"
+  },
+  {
+    "name": "Retool",
+    "category": "dev-tools",
+    "description": "Build internal tools remarkably fast",
+    "address": "1550 Bryant St, San Francisco, CA 94103",
+    "lat": 37.7676,
+    "lng": -122.41,
+    "website": "https://retool.com/"
+  },
+  {
+    "name": "Docker",
+    "category": "dev-tools",
+    "description": "Container platform and microservice orchestration",
+    "address": "3790 El Camino Real #1052, Palo Alto, CA 94306",
+    "lat": 37.4189,
+    "lng": -122.143,
+    "website": "https://www.docker.com/"
+  },
+  {
+    "name": "Zapier",
+    "category": "saas",
+    "description": "Workflow automation connecting web applications",
+    "address": "548 Market St, San Francisco, CA 94104",
+    "lat": 37.7898,
+    "lng": -122.4,
+    "website": "https://zapier.com/"
+  },
+  {
+    "name": "Algolia",
+    "category": "saas",
+    "description": "Hosted search API for lightning-fast experiences",
+    "address": "589 Howard St, San Francisco, CA 94105",
+    "lat": 37.7869,
+    "lng": -122.3977,
+    "website": "https://www.algolia.com/"
+  },
+  {
+    "name": "Amplitude",
+    "category": "data",
+    "description": "Product Analytics for the Digital Era",
+    "address": "501 2nd St #100, San Francisco, CA 94107",
+    "lat": 37.7832,
+    "lng": -122.393,
+    "website": "https://amplitude.com/"
+  },
+  {
+    "name": "Checkr",
+    "category": "hr",
+    "description": "AI-powered background check platform",
+    "address": "2505 Mariposa St, San Francisco, CA 94110",
+    "lat": 37.7629,
+    "lng": -122.4087,
+    "website": "https://checkr.com/"
+  },
+  {
+    "name": "Mixpanel",
+    "category": "data",
+    "description": "Actionable user analytics for product teams",
+    "address": "799 Market St FL 7, San Francisco, CA 94103",
+    "lat": 37.786,
+    "lng": -122.4065,
+    "website": "https://mixpanel.com/"
+  },
+  {
+    "name": "PagerDuty",
+    "category": "dev-tools",
+    "description": "Incident response platform for 10,000+ customers",
+    "address": "501 2nd St #100, San Francisco, CA 94107",
+    "lat": 37.7832,
+    "lng": -122.393,
+    "website": "https://www.pagerduty.com/"
+  },
+  {
+    "name": "Segment",
+    "category": "data",
+    "description": "Customer data platform for every team",
+    "address": "101 15th St, San Francisco, CA 94103",
+    "lat": 37.767,
+    "lng": -122.402,
+    "website": "https://segment.com/"
+  },
+  {
+    "name": "CircleCI",
+    "category": "dev-tools",
+    "description": "Automate build, test, and delivery processes",
+    "address": "201 Spear St #1200, San Francisco, CA 94105",
+    "lat": 37.7913,
+    "lng": -122.392,
+    "website": "https://circleci.com/"
+  },
+  {
+    "name": "Credit Karma",
+    "category": "fintech",
+    "description": "Personal finance and credit information platform",
+    "address": "760 Market St, San Francisco, CA 94102",
+    "lat": 37.7866,
+    "lng": -122.4053,
+    "website": "https://www.creditkarma.com/"
+  },
+  {
+    "name": "AngelList",
+    "category": "fintech",
+    "description": "Where the world meets startups",
+    "address": "90 Gold St, San Francisco, CA 94133",
+    "lat": 37.7968,
+    "lng": -122.4035,
+    "website": "https://angel.co/"
+  },
+  {
+    "name": "Intercom",
+    "category": "saas",
+    "description": "Modern products for sales, marketing and support",
+    "address": "55 2nd St, San Francisco, CA 94105",
+    "lat": 37.7888,
+    "lng": -122.4003,
+    "website": "https://www.intercom.com"
+  },
+  {
+    "name": "Lattice",
+    "category": "hr",
+    "description": "People management platform for growing companies",
+    "address": "535 Mission St, San Francisco, CA 94105",
+    "lat": 37.7889,
+    "lng": -122.3982,
+    "website": "https://lattice.com/"
+  },
+  {
+    "name": "Front",
+    "category": "saas",
+    "description": "Team inbox for productivity and collaboration",
+    "address": "525 Brannan St #300, San Francisco, CA 94107",
+    "lat": 37.7775,
+    "lng": -122.3971,
+    "website": "https://frontapp.com/"
+  },
+  {
+    "name": "HelloSign",
+    "category": "saas",
+    "description": "Most powerful platform for business agreements",
+    "address": "301 Howard St, San Francisco, CA 94105",
+    "lat": 37.7895,
+    "lng": -122.3943,
+    "website": "https://www.hellosign.com/"
+  },
+  {
+    "name": "Iterable",
+    "category": "saas",
+    "description": "Customer engagement and growth marketing platform",
+    "address": "360 3rd St #675, San Francisco, CA 94107",
+    "lat": 37.7827,
+    "lng": -122.3984,
+    "website": "https://iterable.com/"
+  },
+  {
+    "name": "Optimizely",
+    "category": "saas",
+    "description": "Digital experience optimization and testing",
+    "address": "631 Howard St, San Francisco, CA 94105",
+    "lat": 37.7857,
+    "lng": -122.3981,
+    "website": "https://www.optimizely.com/"
+  },
+  {
+    "name": "Apollo",
+    "category": "saas",
+    "description": "Sales engagement and prospecting platform",
+    "address": "599 2nd St, San Francisco, CA 94107",
+    "lat": 37.7823,
+    "lng": -122.3921,
+    "website": "https://www.apollo.io/"
+  },
+  {
+    "name": "Sift",
+    "category": "security",
+    "description": "Digital trust and fraud protection platform",
+    "address": "525 Market St, San Francisco, CA 94105",
+    "lat": 37.7904,
+    "lng": -122.3994,
+    "website": "https://sift.com/"
+  },
+  {
+    "name": "Bugcrowd",
+    "category": "security",
+    "description": "Crowdsourced cybersecurity for the enterprise",
+    "address": "921 Front St #100, San Francisco, CA 94111",
+    "lat": 37.7999,
+    "lng": -122.4005,
+    "website": "https://www.bugcrowd.com/"
+  },
+  {
+    "name": "PlanGrid",
+    "category": "saas",
+    "description": "Construction management software",
+    "address": "835 Howard St, San Francisco, CA 94103",
+    "lat": 37.7837,
+    "lng": -122.4004,
+    "website": "https://www.plangrid.com/"
+  },
+  {
+    "name": "Snapdocs",
+    "category": "fintech",
+    "description": "Digital mortgage closing platform",
+    "address": "25 Stillman St, San Francisco, CA 94107",
+    "lat": 37.7847,
+    "lng": -122.3938,
+    "website": "https://snapdocs.com/"
+  },
+  {
+    "name": "EasyPost",
+    "category": "logistics",
+    "description": "Shipping API making integration quick and painless",
+    "address": "417 Montgomery St, San Francisco, CA 94104",
+    "lat": 37.7934,
+    "lng": -122.4032,
+    "website": "https://www.easypost.com"
+  },
+  {
+    "name": "Lob",
+    "category": "saas",
+    "description": "Cloud-printing API for automating direct mail",
+    "address": "325 Berry St, San Francisco, CA 94107",
+    "lat": 37.776,
+    "lng": -122.3925,
+    "website": "https://lob.com/"
+  },
+  {
+    "name": "BackerKit",
+    "category": "commerce",
+    "description": "Crowdfunding campaign management platform",
+    "address": "1265 Folsom St, San Francisco, CA 94103",
+    "lat": 37.774,
+    "lng": -122.4108,
+    "website": "https://www.backerkit.com/"
+  },
+  {
+    "name": "Circle Medical",
+    "category": "health",
+    "description": "Comprehensive wellness and telehealth services",
+    "address": "431 Jessie St, San Francisco, CA 94103",
+    "lat": 37.7821,
+    "lng": -122.4081,
+    "website": "https://www.circlemedical.com/"
+  },
+  {
+    "name": "Clever",
+    "category": "education",
+    "description": "Make it easy to use technology in classrooms",
+    "address": "1263 Mission St, San Francisco, CA 94103",
+    "lat": 37.7764,
+    "lng": -122.4139,
+    "website": "https://clever.com/"
+  },
+  {
+    "name": "Weebly",
+    "category": "saas",
+    "description": "Website builder and e-commerce platform",
+    "address": "564 Pacific Ave, San Francisco, CA 94133",
+    "lat": 37.7978,
+    "lng": -122.4046,
+    "website": "https://www.weebly.com/"
+  },
+  {
+    "name": "Zenefits",
+    "category": "hr",
+    "description": "HR management software for SMBs",
+    "address": "50 Beale St, San Francisco, CA 94105",
+    "lat": 37.7912,
+    "lng": -122.3961,
+    "website": "https://www.zenefits.com/"
+  },
+  {
+    "name": "GitHub",
+    "category": "dev-tools",
+    "description": "How people build software collaboratively",
+    "address": "88 Colin P Kelly Jr St, San Francisco, CA 94107",
+    "lat": 37.7823,
+    "lng": -122.3912,
+    "website": "https://github.com/"
+  },
+  {
+    "name": "CoreOS",
+    "category": "dev-tools",
+    "description": "Open source containers and Kubernetes",
+    "address": "101 New Montgomery St, San Francisco, CA 94105",
+    "lat": 37.7874,
+    "lng": -122.4002,
+    "website": "https://coreos.com/"
+  },
+  {
+    "name": "Disqus",
+    "category": "saas",
+    "description": "Blog comment hosting and community platform",
+    "address": "301 Howard St, San Francisco, CA 94105",
+    "lat": 37.7895,
+    "lng": -122.3943,
+    "website": "https://disqus.com/"
+  },
+  {
+    "name": "Fivestars",
+    "category": "commerce",
+    "description": "Loyalty and marketing platform for local businesses",
+    "address": "321 11th St, San Francisco, CA 94103",
+    "lat": 37.7714,
+    "lng": -122.4134,
+    "website": "https://www.fivestars.com/"
+  },
+  {
+    "name": "Starcity",
+    "category": "real-estate",
+    "description": "Community housing and co-living spaces",
+    "address": "1390 Market St, San Francisco, CA 94102",
+    "lat": 37.7764,
+    "lng": -122.4172,
+    "website": "https://starcity.com/"
+  },
+  {
+    "name": "42floors",
+    "category": "real-estate",
+    "description": "Commercial real estate search platform",
+    "address": "501 Folsom St #400, San Francisco, CA 94105",
+    "lat": 37.7876,
+    "lng": -122.3948,
+    "website": "https://42floors.com/"
+  },
+  {
+    "name": "Abstract",
+    "category": "design",
+    "description": "Platform for modern design teams to collaborate",
+    "address": "2567 Mission St, San Francisco, CA 94110",
+    "lat": 37.756,
+    "lng": -122.4186,
+    "website": "https://www.goabstract.com/"
+  },
+  {
+    "name": "Watsi",
+    "category": "health",
+    "description": "Fund healthcare for people around the world",
+    "address": "335 Potrero Ave, San Francisco, CA 94110",
+    "lat": 37.7652,
+    "lng": -122.4076,
+    "website": "https://watsi.org/"
+  },
+  {
+    "name": "Streak CRM",
+    "category": "saas",
+    "description": "CRM built inside Gmail",
+    "address": "2261 Market St, San Francisco, CA 94114",
+    "lat": 37.7643,
+    "lng": -122.4318,
+    "website": "https://www.streak.com/"
+  },
+  {
+    "name": "Atrium",
+    "category": "saas",
+    "description": "Corporate law firm using modern technology",
+    "address": "260 Townsend St #400, San Francisco, CA 94107",
+    "lat": 37.7783,
+    "lng": -122.3946,
+    "website": "https://www.atrium.co/"
+  },
+  {
+    "name": "Apptimize",
+    "category": "dev-tools",
+    "description": "A/B testing and release management for mobile",
+    "address": "330 Townsend St #234, San Francisco, CA 94107",
+    "lat": 37.7769,
+    "lng": -122.3961,
+    "website": "https://apptimize.com/"
+  },
+  {
+    "name": "Helpshift",
+    "category": "saas",
+    "description": "AI-powered messaging for customer support",
+    "address": "100 Bush St #950, San Francisco, CA 94104",
+    "lat": 37.7915,
+    "lng": -122.3999,
+    "website": "https://www.helpshift.com/"
+  },
+  {
+    "name": "Branch International",
+    "category": "fintech",
+    "description": "Mobile-first financial services in emerging markets",
+    "address": "535 Mission St, San Francisco, CA 94105",
+    "lat": 37.7889,
+    "lng": -122.3982,
+    "website": "https://branch.co/"
+  },
+  {
+    "name": "BlueCrew",
+    "category": "hr",
+    "description": "On-demand staffing platform for hourly workers",
+    "address": "645 7th St, San Francisco, CA 94103",
+    "lat": 37.7728,
+    "lng": -122.4023,
+    "website": "https://bluecrewjobs.com/"
+  },
+  {
+    "name": "Dover",
+    "category": "hr",
+    "description": "End-to-end recruiting orchestration platform",
+    "address": "447 Sutter St, San Francisco, CA 94108",
+    "lat": 37.789,
+    "lng": -122.4082,
+    "website": "https://www.dover.io/"
+  },
+  {
+    "name": "Triplebyte",
+    "category": "hr",
+    "description": "Background-blind tech recruiting platform",
+    "address": "246 2nd St, San Francisco, CA 94105",
+    "lat": 37.7856,
+    "lng": -122.3974,
+    "website": "https://triplebyte.com/"
+  },
+  {
+    "name": "Snappr",
+    "category": "consumer",
+    "description": "On-demand professional photography service",
+    "address": "995 Market St, San Francisco, CA 94103",
+    "lat": 37.7828,
+    "lng": -122.4099,
+    "website": "https://www.snappr.com/"
+  },
+  {
+    "name": "Ridecell",
+    "category": "auto",
+    "description": "Mobility and fleet automation platform",
+    "address": "350 Treat Ave, San Francisco, CA 94110",
+    "lat": 37.7628,
+    "lng": -122.4143,
+    "website": "https://ridecell.com/"
+  },
+  {
+    "name": "Remix",
+    "category": "saas",
+    "description": "City transportation planning platform",
+    "address": "1104 Shafter Ave, San Francisco, CA 94124",
+    "lat": 37.7302,
+    "lng": -122.3914,
+    "website": "https://www.remix.com/"
+  },
+  {
+    "name": "Rescale",
+    "category": "ai",
+    "description": "Cloud platform for scientific computing simulation",
+    "address": "944 Market St, San Francisco, CA 94102",
+    "lat": 37.7837,
+    "lng": -122.409,
+    "website": "https://www.rescale.com/"
+  },
+  {
+    "name": "Galvanize",
+    "category": "education",
+    "description": "Learning community for tech professionals",
+    "address": "44 Tehama St, San Francisco, CA 94105",
+    "lat": 37.7876,
+    "lng": -122.3966,
+    "website": "https://www.galvanize.com/"
+  },
+  {
+    "name": "Talkable",
+    "category": "saas",
+    "description": "Social referral platform for online stores",
+    "address": "290 Division St #405, San Francisco, CA 94103",
+    "lat": 37.7695,
+    "lng": -122.4065,
+    "website": "https://www.talkable.com/"
+  },
+  {
+    "name": "Goldbely",
+    "category": "commerce",
+    "description": "E-commerce marketplace for gourmet food & gifts",
+    "address": "1 Bluxome St, San Francisco, CA 94107",
+    "lat": 37.7787,
+    "lng": -122.3967,
+    "website": "https://www.goldbely.com/"
+  },
+  {
+    "name": "Bloomthat",
+    "category": "logistics",
+    "description": "On-demand flower delivery service",
+    "address": "645 Harrison St #200, San Francisco, CA 94107",
+    "lat": 37.7813,
+    "lng": -122.3977,
+    "website": "https://www.bloomthat.com/"
+  },
+  {
+    "name": "BuildZoom",
+    "category": "real-estate",
+    "description": "Construction remodeling marketplace",
+    "address": "300 Brannan St #510, San Francisco, CA 94107",
+    "lat": 37.78,
+    "lng": -122.3938,
+    "website": "https://www.buildzoom.com/"
+  },
+  {
+    "name": "Meteor",
+    "category": "dev-tools",
+    "description": "Open-source web application platform",
+    "address": "140 10th St, San Francisco, CA 94103",
+    "lat": 37.7745,
+    "lng": -122.4142,
+    "website": "https://www.meteor.com/"
+  },
+  {
+    "name": "Firebase",
+    "category": "dev-tools",
+    "description": "Real-time cloud application platform (acquired by Google)",
+    "address": "22 4th St, San Francisco, CA 94103",
+    "lat": 37.7851,
+    "lng": -122.4054,
+    "website": "https://firebase.google.com/"
+  },
+  {
+    "name": "Justin.tv",
+    "category": "consumer",
+    "description": "Live video streaming community (became Twitch)",
+    "address": "36 Clyde St, San Francisco, CA 94107",
+    "lat": 37.7784,
+    "lng": -122.3929,
+    "website": "https://www.twitch.tv/"
+  },
+  {
+    "name": "Xobni",
+    "category": "saas",
+    "description": "Contact social profile tool (acquired by Yahoo)",
+    "address": "539 Bryant St #402, San Francisco, CA 94107",
+    "lat": 37.7803,
+    "lng": -122.396,
+    "website": ""
+  },
+  {
+    "name": "Rapportive",
+    "category": "saas",
+    "description": "Email social media integration (acquired by LinkedIn)",
+    "address": "153 Townsend St, San Francisco, CA 94107",
+    "lat": 37.7791,
+    "lng": -122.3937,
+    "website": ""
+  },
+  {
+    "name": "Chute",
+    "category": "saas",
+    "description": "Cloud platform for visual media management",
+    "address": "480 2nd St #302, San Francisco, CA 94107",
+    "lat": 37.783,
+    "lng": -122.3946,
+    "website": "https://www.getchute.com/"
+  },
+  {
+    "name": "DotCloud",
+    "category": "dev-tools",
+    "description": "PaaS platform (became Docker)",
+    "address": "180 Sansome St FL 16, San Francisco, CA 94104",
+    "lat": 37.793,
+    "lng": -122.4015,
+    "website": "https://www.docker.com/"
+  },
+  {
+    "name": "HomeJoy",
+    "category": "consumer",
+    "description": "Professional cleaning service marketplace",
+    "address": "235 Montgomery St #320, San Francisco, CA 94104",
+    "lat": 37.7912,
+    "lng": -122.4024,
+    "website": ""
+  },
+  {
+    "name": "Segment.io",
+    "category": "data",
+    "description": "API integration and customer data platform",
+    "address": "142 Minna St FL 2, San Francisco, CA 94105",
+    "lat": 37.7863,
+    "lng": -122.3997,
+    "website": "https://segment.com/"
+  },
+  {
+    "name": "Leftronic",
+    "category": "data",
+    "description": "Business dashboard and analytics platform",
+    "address": "459 Fulton St #204, San Francisco, CA 94102",
+    "lat": 37.7791,
+    "lng": -122.4239,
+    "website": "https://www.leftronic.com/"
+  },
+  {
+    "name": "MixRank",
+    "category": "data",
+    "description": "Competitive intelligence and analytics tool",
+    "address": "164 Townsend Unit 4, San Francisco, CA 94107",
+    "lat": 37.7791,
+    "lng": -122.3943,
+    "website": "https://mixrank.com/"
+  },
+  {
+    "name": "AnyPerk",
+    "category": "hr",
+    "description": "Employee perks and discounts platform",
+    "address": "442 Post St FL 8, San Francisco, CA 94102",
+    "lat": 37.7878,
+    "lng": -122.4094,
+    "website": ""
+  },
+  {
+    "name": "CrowdMed",
+    "category": "health",
+    "description": "Prediction market for medical diagnostics",
+    "address": "348 Hargrave St, San Francisco, CA 94114",
+    "lat": 37.7632,
+    "lng": -122.4356,
+    "website": "https://www.crowdmed.com/"
+  },
+  {
+    "name": "SimplyInsured",
+    "category": "health",
+    "description": "Group health insurance quotes for small businesses",
+    "address": "44 Tehama St, San Francisco, CA 94105",
+    "lat": 37.7876,
+    "lng": -122.3966,
+    "website": "https://www.simplyinsured.com/"
+  },
+  {
+    "name": "Teleborder",
+    "category": "hr",
+    "description": "HR immigration management system",
+    "address": "524 Union St, San Francisco, CA 94133",
+    "lat": 37.8008,
+    "lng": -122.4086,
+    "website": ""
+  },
+  {
+    "name": "SendHub",
+    "category": "saas",
+    "description": "Business phone system with SMS and voice",
+    "address": "225 Bush St, San Francisco, CA 94104",
+    "lat": 37.7908,
+    "lng": -122.4016,
+    "website": "https://www.sendhub.com/"
+  },
+  {
+    "name": "Kamcord",
+    "category": "consumer",
+    "description": "Mobile game recording and sharing",
+    "address": "301 Howard St, San Francisco, CA 94105",
+    "lat": 37.7895,
+    "lng": -122.3943,
+    "website": ""
+  },
+  {
+    "name": "Statwing",
+    "category": "data",
+    "description": "Statistical analysis software for non-statisticians",
+    "address": "455 Valencia St, San Francisco, CA 94103",
+    "lat": 37.7653,
+    "lng": -122.4218,
+    "website": ""
+  },
+  {
+    "name": "GetGoing",
+    "category": "consumer",
+    "description": "Tour agent for leisure travelers",
+    "address": "1 Bluxome St #215, San Francisco, CA 94107",
+    "lat": 37.7787,
+    "lng": -122.3967,
+    "website": ""
+  },
+  {
+    "name": "GinzaMetrics",
+    "category": "saas",
+    "description": "SEO and content marketing platform",
+    "address": "25 Taylor St, San Francisco, CA 94102",
+    "lat": 37.7832,
+    "lng": -122.4112,
+    "website": "https://www.ginzametrics.com/"
+  },
+  {
+    "name": "Newfront Insurance",
+    "category": "fintech",
+    "description": "Modern insurance brokerage for 20% of US unicorns",
+    "address": "425 Market St, San Francisco, CA 94105",
+    "lat": 37.7912,
+    "lng": -122.3984,
+    "website": "https://www.newfront.com/"
+  },
+  {
+    "name": "Heysan",
+    "category": "consumer",
+    "description": "Mobile messaging service",
+    "address": "301 8th St #270, San Francisco, CA 94103",
+    "lat": 37.7734,
+    "lng": -122.4081,
+    "website": ""
+  },
+  {
+    "name": "AdGrok",
+    "category": "saas",
+    "description": "Google AdWords automation platform",
+    "address": "153 Townsend St #5017, San Francisco, CA 94107",
+    "lat": 37.7791,
+    "lng": -122.3937,
+    "website": ""
+  },
+  {
+    "name": "1000Memories",
+    "category": "consumer",
+    "description": "Photo and memory organization platform",
+    "address": "879 Hampshire St, San Francisco, CA 94110",
+    "lat": 37.758,
+    "lng": -122.4081,
+    "website": ""
+  },
+  {
+    "name": "Perfect Audience",
+    "category": "saas",
+    "description": "Retargeting advertising platform",
+    "address": "582 Market St, San Francisco, CA 94104",
+    "lat": 37.7896,
+    "lng": -122.4001,
+    "website": ""
+  },
+  {
+    "name": "InstantCab",
+    "category": "logistics",
+    "description": "Mobile taxi and rideshare matching",
+    "address": "140 New Montgomery St, San Francisco, CA 94105",
+    "lat": 37.787,
+    "lng": -122.4,
+    "website": ""
+  },
+  {
+    "name": "Fivetran",
+    "category": "data",
+    "description": "Automated data integration and warehouse streaming",
+    "address": "1 Kaiser Plaza, Oakland, CA 94612",
+    "lat": 37.8053,
+    "lng": -122.2726,
+    "website": "https://fivetran.com/"
+  },
+  {
+    "name": "Rigetti Computing",
+    "category": "ai",
+    "description": "Quantum cloud computing services",
+    "address": "775 Heinz Ave, Berkeley, CA 94710",
+    "lat": 37.8559,
+    "lng": -122.2904,
+    "website": "https://www.rigetti.com/"
+  },
+  {
+    "name": "SpoonRocket",
+    "category": "logistics",
+    "description": "Convenient meal delivery service",
+    "address": "1725 University Ave, Berkeley, CA 94703",
+    "lat": 37.8745,
+    "lng": -122.2714,
+    "website": ""
+  },
+  {
+    "name": "MobileWorks",
+    "category": "ai",
+    "description": "Crowdsourcing virtual staffing service",
+    "address": "2054 University Ave #200, Berkeley, CA 94704",
+    "lat": 37.8721,
+    "lng": -122.2687,
+    "website": ""
+  },
+  {
+    "name": "Coursera",
+    "category": "education",
+    "description": "Learn from top universities and earn credentials",
+    "address": "381 E Evelyn Ave, Mountain View, CA 94041",
+    "lat": 37.3869,
+    "lng": -122.0608,
+    "website": "https://www.coursera.org/"
+  },
+  {
+    "name": "Khan Academy",
+    "category": "education",
+    "description": "Free world-class education for anyone, anywhere",
+    "address": "1937 Landings Dr, Mountain View, CA 94043",
+    "lat": 37.4213,
+    "lng": -122.0887,
+    "website": "https://www.khanacademy.org/"
+  },
+  {
+    "name": "WePay",
+    "category": "fintech",
+    "description": "Integrated payments provider for platforms",
+    "address": "350 Convention Way, Redwood City, CA 94063",
+    "lat": 37.5104,
+    "lng": -122.2007,
+    "website": "https://go.wepay.com/"
+  },
+  {
+    "name": "Branch",
+    "category": "dev-tools",
+    "description": "Enterprise-grade deep links for user acquisition",
+    "address": "1400 Seaport Blvd, Redwood City, CA 94063",
+    "lat": 37.5137,
+    "lng": -122.1995,
+    "website": "https://branch.io/"
+  },
+  {
+    "name": "Armory",
+    "category": "dev-tools",
+    "description": "Continuous deployment for the enterprise",
+    "address": "28 E 3rd Ave #200, San Mateo, CA 94401",
+    "lat": 37.5633,
+    "lng": -122.3252,
+    "website": "https://www.armory.io/"
+  },
+  {
+    "name": "Ambient.ai",
+    "category": "ai",
+    "description": "Vision AI platform for physical security",
+    "address": "459 Hamilton Ave, Palo Alto, CA 94301",
+    "lat": 37.4472,
+    "lng": -122.1586,
+    "website": "https://ambient.ai"
+  },
+  {
+    "name": "Machine Zone",
+    "category": "consumer",
+    "description": "Mobile gaming and real-time tech company",
+    "address": "2225 E Bayshore Rd, Palo Alto, CA 94303",
+    "lat": 37.4566,
+    "lng": -122.1126,
+    "website": "https://www.mz.com/"
+  },
+  {
+    "name": "Matterport",
+    "category": "ai",
+    "description": "3D walkthrough and spatial data platform",
+    "address": "352 E Java Dr, Sunnyvale, CA 94089",
+    "lat": 37.4161,
+    "lng": -122.009,
+    "website": "https://matterport.com/"
+  },
+  {
+    "name": "DrChrono",
+    "category": "health",
+    "description": "Medical records and EHR platform",
+    "address": "1001 Rengstorff Ave FL 2, Mountain View, CA 94043",
+    "lat": 37.4023,
+    "lng": -122.0958,
+    "website": "https://www.drchrono.com/"
+  },
+  {
+    "name": "Gobble",
+    "category": "logistics",
+    "description": "Authentic cuisine food delivery marketplace",
+    "address": "855 El Camino Real, Palo Alto, CA 94301",
+    "lat": 37.443,
+    "lng": -122.16,
+    "website": "https://www.gobble.com/"
+  },
+  {
+    "name": "AeroFS",
+    "category": "saas",
+    "description": "Private file sharing and syncing service",
+    "address": "240 Hamilton Ave, Palo Alto, CA 94301",
+    "lat": 37.444,
+    "lng": -122.1608,
+    "website": "https://www.aerofs.com/"
+  },
+  {
+    "name": "YourMechanic",
+    "category": "consumer",
+    "description": "On-demand vehicle repair marketplace",
+    "address": "800 California St, Mountain View, CA 94041",
+    "lat": 37.3895,
+    "lng": -122.079,
+    "website": "https://www.yourmechanic.com/"
+  },
+  {
+    "name": "Kicksend",
+    "category": "consumer",
+    "description": "Photo album sharing application",
+    "address": "655 Castro St #2, Mountain View, CA 94041",
+    "lat": 37.3875,
+    "lng": -122.0832,
+    "website": ""
+  },
+  {
+    "name": "GazeHawk",
+    "category": "ai",
+    "description": "Eye-tracking analytics services",
+    "address": "655 W Evelyn Ave #7, Mountain View, CA 94041",
+    "lat": 37.3903,
+    "lng": -122.0794,
+    "website": ""
+  },
+  {
+    "name": "CircuitLab",
+    "category": "dev-tools",
+    "description": "Online circuit design and analysis tools",
+    "address": "570 S Rengstorff Ave #18, Mountain View, CA 94040",
+    "lat": 37.392,
+    "lng": -122.097,
+    "website": "https://www.circuitlab.com/"
+  },
+  {
+    "name": "Comprehend Systems",
+    "category": "health",
+    "description": "Cloud-based clinical analytics and visualization",
+    "address": "2010 Broadway St #200, Redwood City, CA 94063",
+    "lat": 37.4879,
+    "lng": -122.2274,
+    "website": ""
+  },
+  {
+    "name": "Parse",
+    "category": "dev-tools",
+    "description": "Cloud backend service (acquired by Facebook)",
+    "address": "1 Hacker Way, Menlo Park, CA 94025",
+    "lat": 37.4848,
+    "lng": -122.1484,
+    "website": ""
+  },
+  {
+    "name": "Crowdbooster",
+    "category": "data",
+    "description": "Social media analytics platform",
+    "address": "395 Page Mill Rd, Palo Alto, CA 94306",
+    "lat": 37.4204,
+    "lng": -122.1447,
+    "website": ""
+  },
+  {
+    "name": "E la Carte",
+    "category": "consumer",
+    "description": "Restaurant tablet ordering system (now Presto)",
+    "address": "985 Industrial Rd, San Carlos, CA 94070",
+    "lat": 37.505,
+    "lng": -122.256,
+    "website": "https://presto.com/"
+  },
+  {
+    "name": "Listia",
+    "category": "commerce",
+    "description": "Auction and trading marketplace",
+    "address": "800 California St, Mountain View, CA 94041",
+    "lat": 37.3895,
+    "lng": -122.079,
+    "website": "https://www.listia.com/"
+  },
+  {
+    "name": "Vanta",
+    "category": "security",
+    "description": "Automated security compliance platform, $4.2B valuation (W18)",
+    "address": "369 Hayes St, San Francisco, CA 94102",
+    "lat": 37.7765,
+    "lng": -122.4237,
+    "website": "https://www.vanta.com/"
+  },
+  {
+    "name": "Baseten",
+    "category": "ai",
+    "description": "ML model deployment infrastructure, $5B valuation (S19)",
+    "address": "201 Spear St #1600, San Francisco, CA 94105",
+    "lat": 37.7913,
+    "lng": -122.392,
+    "website": "https://www.baseten.co/"
+  },
+  {
+    "name": "Astranis",
+    "category": "ai",
+    "description": "Small low-cost telecom satellites, $1.4B valuation (W16)",
+    "address": "575 20th St (Pier 70), San Francisco, CA 94107",
+    "lat": 37.7597,
+    "lng": -122.388,
+    "website": "https://www.astranis.com/"
+  },
+  {
+    "name": "Instawork",
+    "category": "hr",
+    "description": "On-demand staffing for gig workers and hospitality (S15)",
+    "address": "548 Market St, San Francisco, CA 94104",
+    "lat": 37.79,
+    "lng": -122.4008,
+    "website": "https://www.instawork.com/"
+  },
+  {
+    "name": "Hightouch",
+    "category": "data",
+    "description": "Customer data platform, $1.2B valuation (S19)",
+    "address": "2261 Market St, San Francisco, CA 94114",
+    "lat": 37.7643,
+    "lng": -122.4318,
+    "website": "https://hightouch.com/"
+  },
+  {
+    "name": "Rippling",
+    "category": "hr",
+    "description": "Unified HR, IT, and finance platform, 2500 employees (W17)",
+    "address": "430 California St, San Francisco, CA 94104",
+    "lat": 37.793,
+    "lng": -122.403,
+    "website": "https://www.rippling.com/"
+  },
+  {
+    "name": "Deel",
+    "category": "hr",
+    "description": "All-in-one payroll and HR for global teams, 5000 employees (W19)",
+    "address": "425 1st St #1502, San Francisco, CA 94105",
+    "lat": 37.787,
+    "lng": -122.3935,
+    "website": "https://www.deel.com/"
+  },
+  {
+    "name": "Newfront",
+    "category": "fintech",
+    "description": "Modern insurance brokerage for 20% of US unicorns (W18)",
+    "address": "550 California St #302, San Francisco, CA 94104",
+    "lat": 37.7924,
+    "lng": -122.4035,
+    "website": "https://www.newfront.com/"
+  },
+  {
+    "name": "Greptile",
+    "category": "dev-tools",
+    "description": "AI code review with full codebase context (W24)",
+    "address": "1664 Larkin St, San Francisco, CA 94109",
+    "lat": 37.7925,
+    "lng": -122.4184,
+    "website": "https://greptile.com/"
+  },
+  {
+    "name": "Vercel",
+    "category": "dev-tools",
+    "description": "Frontend cloud platform for web development (W18)",
+    "address": "650 California St FL 7, San Francisco, CA 94108",
+    "lat": 37.7927,
+    "lng": -122.4067,
+    "website": "https://vercel.com/"
+  },
+  {
+    "name": "Pylon",
+    "category": "saas",
+    "description": "Customer support platform for B2B companies (S23)",
+    "address": "690 5th St, San Francisco, CA 94107",
+    "lat": 37.7761,
+    "lng": -122.3954,
+    "website": "https://www.usepylon.com/"
+  },
+  {
+    "name": "YonedaLabs",
+    "category": "ai",
+    "description": "Foundation model for chemists to predict outcomes (W24)",
+    "address": "953 Indiana St, San Francisco, CA 94107",
+    "lat": 37.7574,
+    "lng": -122.3918,
+    "website": "https://yonedalabs.com/"
+  },
+  {
+    "name": "Vocode",
+    "category": "ai",
+    "description": "Open source voice AI platform (S23)",
+    "address": "2181 Greenwich St, San Francisco, CA 94123",
+    "lat": 37.7993,
+    "lng": -122.4378,
+    "website": "https://vocode.dev/"
+  },
+  {
+    "name": "Basalt Tech",
+    "category": "ai",
+    "description": "Spacecraft software and autonomy (W24)",
+    "address": "95 3rd St, San Francisco, CA 94103",
+    "lat": 37.7849,
+    "lng": -122.4005,
+    "website": "https://basalt.tech/"
+  },
+  {
+    "name": "Pocket",
+    "category": "ai",
+    "description": "AI note-taking device & app, $27M ARR, 30K+ units (W26)",
+    "address": "233 Sansome St #1200, San Francisco, CA 94104",
+    "lat": 37.7931,
+    "lng": -122.4014,
+    "website": "https://heypocket.com/"
+  },
+  {
+    "name": "ARC Prize Foundation",
+    "category": "ai",
+    "description": "AI benchmarks measuring progress toward AGI (W26)",
+    "address": "548 Market St, San Francisco, CA 94104",
+    "lat": 37.79,
+    "lng": -122.4008,
+    "website": "https://arcprize.org/"
+  },
+  {
+    "name": "Google",
+    "category": "ai",
+    "description": "Search, ads, cloud, and AI — Alphabet subsidiary",
+    "address": "1600 Amphitheatre Pkwy, Mountain View, CA 94043",
+    "lat": 37.422,
+    "lng": -122.0841,
+    "website": "https://about.google/",
+    "logo": "https://logo.clearbit.com/google.com"
+  },
+  {
+    "name": "Apple",
+    "category": "hardware",
+    "description": "iPhone, Mac, and services — world's most valuable company",
+    "address": "One Apple Park Way, Cupertino, CA 95014",
+    "lat": 37.3349,
+    "lng": -122.009,
+    "website": "https://www.apple.com/",
+    "logo": "https://logo.clearbit.com/apple.com"
+  },
+  {
+    "name": "Meta",
+    "category": "consumer",
+    "description": "Facebook, Instagram, WhatsApp, and Reality Labs",
+    "address": "1 Hacker Way, Menlo Park, CA 94025",
+    "lat": 37.4848,
+    "lng": -122.1484,
+    "website": "https://about.meta.com/",
+    "logo": "https://logo.clearbit.com/meta.com"
+  },
+  {
+    "name": "Netflix",
+    "category": "consumer",
+    "description": "Global streaming entertainment service",
+    "address": "121 Albright Way, Los Gatos, CA 95032",
+    "lat": 37.2565,
+    "lng": -121.9559,
+    "website": "https://www.netflix.com/",
+    "logo": "https://logo.clearbit.com/netflix.com"
+  },
+  {
+    "name": "Salesforce",
+    "category": "saas",
+    "description": "CRM platform and enterprise cloud solutions",
+    "address": "Salesforce Tower, 415 Mission St, San Francisco, CA 94105",
+    "lat": 37.79,
+    "lng": -122.3969,
+    "website": "https://www.salesforce.com/",
+    "logo": "https://logo.clearbit.com/salesforce.com"
+  },
+  {
+    "name": "NVIDIA",
+    "category": "hardware",
+    "description": "GPU computing and AI chip leader",
+    "address": "2788 San Tomas Expy, Santa Clara, CA 95051",
+    "lat": 37.3708,
+    "lng": -121.9636,
+    "website": "https://www.nvidia.com/",
+    "logo": "https://logo.clearbit.com/nvidia.com"
+  },
+  {
+    "name": "Adobe",
+    "category": "saas",
+    "description": "Creative Cloud, Photoshop, and digital media tools",
+    "address": "345 Park Ave, San Jose, CA 95110",
+    "lat": 37.3318,
+    "lng": -121.893,
+    "website": "https://www.adobe.com/",
+    "logo": "https://logo.clearbit.com/adobe.com"
+  },
+  {
+    "name": "Tesla",
+    "category": "auto",
+    "description": "Electric vehicles, energy, and AI/robotics",
+    "address": "3500 Deer Creek Rd, Palo Alto, CA 94304",
+    "lat": 37.3947,
+    "lng": -122.1503,
+    "website": "https://www.tesla.com/",
+    "logo": "https://logo.clearbit.com/tesla.com"
+  },
+  {
+    "name": "Oracle",
+    "category": "saas",
+    "description": "Enterprise database and cloud infrastructure",
+    "address": "2300 Oracle Way, Austin, TX — Bay Area: 500 Oracle Pkwy, Redwood City, CA 94065",
+    "lat": 37.5295,
+    "lng": -122.2615,
+    "website": "https://www.oracle.com/",
+    "logo": "https://logo.clearbit.com/oracle.com"
+  },
+  {
+    "name": "VMware",
+    "category": "saas",
+    "description": "Cloud computing and virtualization (now Broadcom)",
+    "address": "3401 Hillview Ave, Palo Alto, CA 94304",
+    "lat": 37.3956,
+    "lng": -122.1144,
+    "website": "https://www.vmware.com/",
+    "logo": "https://logo.clearbit.com/vmware.com"
+  },
+  {
+    "name": "ServiceNow",
+    "category": "saas",
+    "description": "Digital workflow automation platform",
+    "address": "2225 Lawson Ln, Santa Clara, CA 95054",
+    "lat": 37.3908,
+    "lng": -121.9773,
+    "website": "https://www.servicenow.com/",
+    "logo": "https://logo.clearbit.com/servicenow.com"
+  },
+  {
+    "name": "Snowflake",
+    "category": "data",
+    "description": "Cloud data platform and data warehouse",
+    "address": "106 E Babcock St, Bozeman, MT — Bay Area: 450 Concar Dr, San Mateo, CA 94402",
+    "lat": 37.5542,
+    "lng": -122.3131,
+    "website": "https://www.snowflake.com/",
+    "logo": "https://logo.clearbit.com/snowflake.com"
+  },
+  {
+    "name": "Cloudflare",
+    "category": "security",
+    "description": "Web security, CDN, and edge computing",
+    "address": "101 Townsend St, San Francisco, CA 94107",
+    "lat": 37.7791,
+    "lng": -122.3937,
+    "website": "https://www.cloudflare.com/",
+    "logo": "https://logo.clearbit.com/cloudflare.com"
+  },
+  {
+    "name": "Palo Alto Networks",
+    "category": "security",
+    "description": "Cybersecurity and firewall solutions",
+    "address": "3000 Tannery Way, Santa Clara, CA 95054",
+    "lat": 37.3969,
+    "lng": -121.9792,
+    "website": "https://www.paloaltonetworks.com/",
+    "logo": "https://logo.clearbit.com/paloaltonetworks.com"
+  },
+  {
+    "name": "CrowdStrike",
+    "category": "security",
+    "description": "Cloud-native endpoint security platform",
+    "address": "206 E 9th St, Austin, TX — Bay Area: 680 Folsom St, San Francisco, CA 94107",
+    "lat": 37.7848,
+    "lng": -122.3967,
+    "website": "https://www.crowdstrike.com/",
+    "logo": "https://logo.clearbit.com/crowdstrike.com"
+  },
+  {
+    "name": "Fortinet",
+    "category": "security",
+    "description": "Network security appliances and services",
+    "address": "899 Kifer Rd, Sunnyvale, CA 94086",
+    "lat": 37.3731,
+    "lng": -122.0148,
+    "website": "https://www.fortinet.com/",
+    "logo": "https://logo.clearbit.com/fortinet.com"
+  },
+  {
+    "name": "Splunk",
+    "category": "data",
+    "description": "Machine data analytics and security (now Cisco)",
+    "address": "270 Brannan St, San Francisco, CA 94107",
+    "lat": 37.7808,
+    "lng": -122.392,
+    "website": "https://www.splunk.com/",
+    "logo": "https://logo.clearbit.com/splunk.com"
+  },
+  {
+    "name": "Elastic",
+    "category": "dev-tools",
+    "description": "Elasticsearch, observability, and security",
+    "address": "101 Main St, San Francisco, CA 94105",
+    "lat": 37.7913,
+    "lng": -122.3944,
+    "website": "https://www.elastic.co/",
+    "logo": "https://logo.clearbit.com/elastic.co"
+  },
+  {
+    "name": "OpenAI",
+    "category": "ai",
+    "description": "ChatGPT and GPT model series — leading AI lab",
+    "address": "3180 18th St, San Francisco, CA 94110",
+    "lat": 37.762,
+    "lng": -122.4155,
+    "website": "https://openai.com/",
+    "logo": "https://logo.clearbit.com/openai.com"
+  },
+  {
+    "name": "Anthropic",
+    "category": "ai",
+    "description": "Claude AI — AI safety and research company",
+    "address": "548 Market St, San Francisco, CA 94104",
+    "lat": 37.79,
+    "lng": -122.4008,
+    "website": "https://www.anthropic.com/",
+    "logo": "https://logo.clearbit.com/anthropic.com"
+  },
+  {
+    "name": "xAI",
+    "category": "ai",
+    "description": "Grok AI — Elon Musk's AI company",
+    "address": "Pacific Heights, San Francisco, CA",
+    "lat": 37.7925,
+    "lng": -122.4382,
+    "website": "https://x.ai/"
+  },
+  {
+    "name": "Databricks",
+    "category": "data",
+    "description": "Unified data analytics and AI platform",
+    "address": "160 Spear St, San Francisco, CA 94105",
+    "lat": 37.7913,
+    "lng": -122.3934,
+    "website": "https://www.databricks.com/",
+    "logo": "https://logo.clearbit.com/databricks.com"
+  },
+  {
+    "name": "Palantir",
+    "category": "data",
+    "description": "Big data analytics for government and enterprise",
+    "address": "1200 17th St, Denver, CO — Bay Area: 100 Hamilton Ave, Palo Alto, CA 94301",
+    "lat": 37.4435,
+    "lng": -122.16,
+    "website": "https://www.palantir.com/",
+    "logo": "https://logo.clearbit.com/palantir.com"
+  },
+  {
+    "name": "Intel",
+    "category": "hardware",
+    "description": "CPU and semiconductor manufacturer",
+    "address": "2200 Mission College Blvd, Santa Clara, CA 95054",
+    "lat": 37.3876,
+    "lng": -121.9638,
+    "website": "https://www.intel.com/",
+    "logo": "https://logo.clearbit.com/intel.com"
+  },
+  {
+    "name": "AMD",
+    "category": "hardware",
+    "description": "CPUs, GPUs, and data center processors",
+    "address": "2485 Augustine Dr, Santa Clara, CA 95054",
+    "lat": 37.3813,
+    "lng": -121.9886,
+    "website": "https://www.amd.com/",
+    "logo": "https://logo.clearbit.com/amd.com"
+  },
+  {
+    "name": "Broadcom",
+    "category": "hardware",
+    "description": "Semiconductors and infrastructure software",
+    "address": "1320 Ridder Park Dr, San Jose, CA 95131",
+    "lat": 37.4028,
+    "lng": -121.9218,
+    "website": "https://www.broadcom.com/",
+    "logo": "https://logo.clearbit.com/broadcom.com"
+  },
+  {
+    "name": "Cisco",
+    "category": "hardware",
+    "description": "Networking equipment and enterprise solutions",
+    "address": "170 W Tasman Dr, San Jose, CA 95134",
+    "lat": 37.4089,
+    "lng": -121.9545,
+    "website": "https://www.cisco.com/",
+    "logo": "https://logo.clearbit.com/cisco.com"
+  },
+  {
+    "name": "Juniper Networks",
+    "category": "hardware",
+    "description": "Networking and cybersecurity solutions",
+    "address": "1133 Innovation Way, Sunnyvale, CA 94089",
+    "lat": 37.4153,
+    "lng": -122.006,
+    "website": "https://www.juniper.net/",
+    "logo": "https://logo.clearbit.com/juniper.net"
+  },
+  {
+    "name": "Slack",
+    "category": "saas",
+    "description": "Business messaging and collaboration (now Salesforce)",
+    "address": "415 Mission St, San Francisco, CA 94105",
+    "lat": 37.7901,
+    "lng": -122.397,
+    "website": "https://slack.com/",
+    "logo": "https://logo.clearbit.com/slack.com"
+  },
+  {
+    "name": "Zoom",
+    "category": "saas",
+    "description": "Video communications platform",
+    "address": "55 Almaden Blvd, San Jose, CA 95113",
+    "lat": 37.3337,
+    "lng": -121.894,
+    "website": "https://zoom.us/",
+    "logo": "https://logo.clearbit.com/zoom.us"
+  },
+  {
+    "name": "Twilio",
+    "category": "dev-tools",
+    "description": "Cloud communications APIs for voice, SMS, video",
+    "address": "101 Spear St, San Francisco, CA 94105",
+    "lat": 37.7922,
+    "lng": -122.3924,
+    "website": "https://www.twilio.com/",
+    "logo": "https://logo.clearbit.com/twilio.com"
+  },
+  {
+    "name": "Square (Block)",
+    "category": "fintech",
+    "description": "Payment processing and financial services",
+    "address": "1955 Broadway, Oakland, CA 94612",
+    "lat": 37.8076,
+    "lng": -122.2692,
+    "website": "https://squareup.com/",
+    "logo": "https://logo.clearbit.com/squareup.com"
+  },
+  {
+    "name": "PayPal",
+    "category": "fintech",
+    "description": "Online payment system and digital wallet",
+    "address": "2211 N First St, San Jose, CA 95131",
+    "lat": 37.3768,
+    "lng": -121.905,
+    "website": "https://www.paypal.com/",
+    "logo": "https://logo.clearbit.com/paypal.com"
+  },
+  {
+    "name": "Intuit",
+    "category": "fintech",
+    "description": "TurboTax, QuickBooks, and Mailchimp",
+    "address": "2700 Coast Ave, Mountain View, CA 94043",
+    "lat": 37.4151,
+    "lng": -122.0729,
+    "website": "https://www.intuit.com/",
+    "logo": "https://logo.clearbit.com/intuit.com"
+  },
+  {
+    "name": "Workday",
+    "category": "saas",
+    "description": "Enterprise HR and finance cloud applications",
+    "address": "6110 Stoneridge Mall Rd, Pleasanton, CA 94588",
+    "lat": 37.6936,
+    "lng": -121.9268,
+    "website": "https://www.workday.com/",
+    "logo": "https://logo.clearbit.com/workday.com"
+  },
+  {
+    "name": "LinkedIn",
+    "category": "consumer",
+    "description": "Professional networking and career platform (Microsoft)",
+    "address": "1000 W Maude Ave, Sunnyvale, CA 94085",
+    "lat": 37.3861,
+    "lng": -122.0315,
+    "website": "https://www.linkedin.com/",
+    "logo": "https://logo.clearbit.com/linkedin.com"
+  },
+  {
+    "name": "Pinterest",
+    "category": "consumer",
+    "description": "Visual discovery and bookmarking platform",
+    "address": "651 Brannan St, San Francisco, CA 94107",
+    "lat": 37.7766,
+    "lng": -122.3983,
+    "website": "https://www.pinterest.com/",
+    "logo": "https://logo.clearbit.com/pinterest.com"
+  },
+  {
+    "name": "Snap",
+    "category": "consumer",
+    "description": "Snapchat — camera and social media platform",
+    "address": "3000 31st St, Santa Monica, CA — Bay Area: 1160 Battery St, San Francisco, CA 94111",
+    "lat": 37.7982,
+    "lng": -122.4019,
+    "website": "https://www.snap.com/",
+    "logo": "https://logo.clearbit.com/snap.com"
+  },
+  {
+    "name": "Uber",
+    "category": "logistics",
+    "description": "Ride-hailing, food delivery, and freight",
+    "address": "1515 3rd St, San Francisco, CA 94158",
+    "lat": 37.7696,
+    "lng": -122.3878,
+    "website": "https://www.uber.com/",
+    "logo": "https://logo.clearbit.com/uber.com"
+  },
+  {
+    "name": "Lyft",
+    "category": "logistics",
+    "description": "Ride-sharing and transportation network",
+    "address": "185 Berry St, San Francisco, CA 94107",
+    "lat": 37.7762,
+    "lng": -122.3923,
+    "website": "https://www.lyft.com/",
+    "logo": "https://logo.clearbit.com/lyft.com"
+  },
+  {
+    "name": "Twitter (X)",
+    "category": "consumer",
+    "description": "Social media and news platform",
+    "address": "1355 Market St, San Francisco, CA 94103",
+    "lat": 37.7764,
+    "lng": -122.4168,
+    "website": "https://x.com/",
+    "logo": "https://logo.clearbit.com/x.com"
+  },
+  {
+    "name": "Yelp",
+    "category": "consumer",
+    "description": "Local business reviews and recommendations",
+    "address": "350 Mission St, San Francisco, CA 94105",
+    "lat": 37.7908,
+    "lng": -122.3964,
+    "website": "https://www.yelp.com/",
+    "logo": "https://logo.clearbit.com/yelp.com"
+  },
+  {
+    "name": "Asana",
+    "category": "saas",
+    "description": "Work management and team collaboration platform",
+    "address": "633 Folsom St, San Francisco, CA 94107",
+    "lat": 37.7853,
+    "lng": -122.3966,
+    "website": "https://asana.com/",
+    "logo": "https://logo.clearbit.com/asana.com"
+  },
+  {
+    "name": "Figma",
+    "category": "design",
+    "description": "Collaborative interface design tool",
+    "address": "760 Market St, San Francisco, CA 94102",
+    "lat": 37.7865,
+    "lng": -122.4054,
+    "website": "https://www.figma.com/",
+    "logo": "https://logo.clearbit.com/figma.com"
+  },
+  {
+    "name": "Notion",
+    "category": "saas",
+    "description": "All-in-one workspace for notes, docs, and projects",
+    "address": "2300 Harrison St, San Francisco, CA 94110",
+    "lat": 37.7594,
+    "lng": -122.413,
+    "website": "https://www.notion.so/",
+    "logo": "https://logo.clearbit.com/notion.so"
+  },
+  {
+    "name": "Atlassian",
+    "category": "dev-tools",
+    "description": "Jira, Confluence — team collaboration tools",
+    "address": "431 El Camino Real, Santa Clara, CA 95050",
+    "lat": 37.3527,
+    "lng": -121.9506,
+    "website": "https://www.atlassian.com/",
+    "logo": "https://logo.clearbit.com/atlassian.com"
+  },
+  {
+    "name": "MongoDB",
+    "category": "dev-tools",
+    "description": "NoSQL document database platform",
+    "address": "1633 Broadway, NYC — Bay Area: 555 University Ave, Palo Alto, CA 94301",
+    "lat": 37.4472,
+    "lng": -122.1614,
+    "website": "https://www.mongodb.com/",
+    "logo": "https://logo.clearbit.com/mongodb.com"
+  },
+  {
+    "name": "HashiCorp",
+    "category": "dev-tools",
+    "description": "Terraform, Vault — cloud infrastructure automation",
+    "address": "101 2nd St #700, San Francisco, CA 94105",
+    "lat": 37.7878,
+    "lng": -122.3988,
+    "website": "https://www.hashicorp.com/",
+    "logo": "https://logo.clearbit.com/hashicorp.com"
+  },
+  {
+    "name": "Confluent",
+    "category": "data",
+    "description": "Apache Kafka streaming data platform",
+    "address": "101 University Ave, Palo Alto, CA 94301",
+    "lat": 37.4455,
+    "lng": -122.162,
+    "website": "https://www.confluent.io/",
+    "logo": "https://logo.clearbit.com/confluent.io"
+  },
+  {
+    "name": "Okta",
+    "category": "security",
+    "description": "Identity and access management platform",
+    "address": "100 1st St, San Francisco, CA 94105",
+    "lat": 37.788,
+    "lng": -122.3987,
+    "website": "https://www.okta.com/",
+    "logo": "https://logo.clearbit.com/okta.com"
+  },
+  {
+    "name": "SentinelOne",
+    "category": "security",
+    "description": "AI-powered autonomous cybersecurity",
+    "address": "444 Castro St, Mountain View, CA 94041",
+    "lat": 37.3907,
+    "lng": -122.082,
+    "website": "https://www.sentinelone.com/",
+    "logo": "https://logo.clearbit.com/sentinelone.com"
+  },
+  {
+    "name": "Zscaler",
+    "category": "security",
+    "description": "Cloud-based information security",
+    "address": "120 Holger Way, San Jose, CA 95134",
+    "lat": 37.4177,
+    "lng": -121.956,
+    "website": "https://www.zscaler.com/",
+    "logo": "https://logo.clearbit.com/zscaler.com"
+  },
+  {
+    "name": "Robinhood",
+    "category": "fintech",
+    "description": "Commission-free stock and crypto trading",
+    "address": "85 Willow Rd, Menlo Park, CA 94025",
+    "lat": 37.4564,
+    "lng": -122.1728,
+    "website": "https://robinhood.com/",
+    "logo": "https://logo.clearbit.com/robinhood.com"
+  },
+  {
+    "name": "SoFi",
+    "category": "fintech",
+    "description": "Personal finance and digital banking",
+    "address": "234 1st St, San Francisco, CA 94105",
+    "lat": 37.7874,
+    "lng": -122.3945,
+    "website": "https://www.sofi.com/",
+    "logo": "https://logo.clearbit.com/sofi.com"
+  },
+  {
+    "name": "Plaid",
+    "category": "fintech",
+    "description": "Financial data connectivity APIs",
+    "address": "415 Mission St #1100, San Francisco, CA 94105",
+    "lat": 37.79,
+    "lng": -122.3969,
+    "website": "https://plaid.com/",
+    "logo": "https://logo.clearbit.com/plaid.com"
+  },
+  {
+    "name": "Coinbase",
+    "category": "fintech",
+    "description": "Cryptocurrency exchange and wallet (remote-first)",
+    "address": "248 3rd St #434, Oakland, CA 94607",
+    "lat": 37.7921,
+    "lng": -122.2727,
+    "website": "https://www.coinbase.com/",
+    "logo": "https://logo.clearbit.com/coinbase.com"
+  },
+  {
+    "name": "Visa",
+    "category": "fintech",
+    "description": "Global payment technology company",
+    "address": "900 Metro Center Blvd, Foster City, CA 94404",
+    "lat": 37.5596,
+    "lng": -122.2721,
+    "website": "https://www.visa.com/",
+    "logo": "https://logo.clearbit.com/visa.com"
+  },
+  {
+    "name": "Rivian",
+    "category": "auto",
+    "description": "Electric adventure vehicles and delivery vans",
+    "address": "Rivian Bay Area: 2235 Zanker Rd, San Jose, CA 95131",
+    "lat": 37.3903,
+    "lng": -121.9206,
+    "website": "https://rivian.com/",
+    "logo": "https://logo.clearbit.com/rivian.com"
+  },
+  {
+    "name": "Waymo",
+    "category": "auto",
+    "description": "Autonomous driving technology (Alphabet)",
+    "address": "1600 Amphitheatre Pkwy, Mountain View, CA 94043",
+    "lat": 37.4225,
+    "lng": -122.0847,
+    "website": "https://waymo.com/",
+    "logo": "https://logo.clearbit.com/waymo.com"
+  },
+  {
+    "name": "Lucid Motors",
+    "category": "auto",
+    "description": "Luxury electric vehicles",
+    "address": "7373 Gateway Blvd, Newark, CA 94560",
+    "lat": 37.5187,
+    "lng": -122.0332,
+    "website": "https://lucidmotors.com/",
+    "logo": "https://logo.clearbit.com/lucidmotors.com"
+  },
+  {
+    "name": "Roblox",
+    "category": "consumer",
+    "description": "Online gaming platform and game creation system",
+    "address": "970 Park Pl, San Mateo, CA 94403",
+    "lat": 37.554,
+    "lng": -122.3097,
+    "website": "https://www.roblox.com/",
+    "logo": "https://logo.clearbit.com/roblox.com"
+  },
+  {
+    "name": "Discord",
+    "category": "consumer",
+    "description": "Voice, video, and text communication platform",
+    "address": "444 De Haro St, San Francisco, CA 94107",
+    "lat": 37.7654,
+    "lng": -122.4011,
+    "website": "https://discord.com/",
+    "logo": "https://logo.clearbit.com/discord.com"
+  },
+  {
+    "name": "Spotify",
+    "category": "consumer",
+    "description": "Music and podcast streaming (SF office)",
+    "address": "4 World Trade Center, NYC — Bay Area: 900 Jefferson Ave, Redwood City, CA 94063",
+    "lat": 37.4889,
+    "lng": -122.2171,
+    "website": "https://www.spotify.com/",
+    "logo": "https://logo.clearbit.com/spotify.com"
+  },
+  {
+    "name": "Nextdoor",
+    "category": "consumer",
+    "description": "Neighborhood social networking platform",
+    "address": "420 Taylor St, San Francisco, CA 94102",
+    "lat": 37.7861,
+    "lng": -122.4106,
+    "website": "https://nextdoor.com/",
+    "logo": "https://logo.clearbit.com/nextdoor.com"
+  },
+  {
+    "name": "Wish",
+    "category": "commerce",
+    "description": "Affordable e-commerce marketplace",
+    "address": "1 Sansome St, San Francisco, CA 94104",
+    "lat": 37.7905,
+    "lng": -122.401,
+    "website": "https://www.wish.com/",
+    "logo": "https://logo.clearbit.com/wish.com"
+  },
+  {
+    "name": "Levi's",
+    "category": "commerce",
+    "description": "Global apparel company — tech-forward HQ in SF",
+    "address": "1155 Battery St, San Francisco, CA 94111",
+    "lat": 37.7985,
+    "lng": -122.401,
+    "website": "https://www.levi.com/"
+  },
+  {
+    "name": "Dolby",
+    "category": "hardware",
+    "description": "Audio and visual entertainment technologies",
+    "address": "1275 Market St, San Francisco, CA 94103",
+    "lat": 37.7774,
+    "lng": -122.4139,
+    "website": "https://www.dolby.com/",
+    "logo": "https://logo.clearbit.com/dolby.com"
+  },
+  {
+    "name": "HP Inc.",
+    "category": "hardware",
+    "description": "Personal computers and printers",
+    "address": "1501 Page Mill Rd, Palo Alto, CA 94304",
+    "lat": 37.4048,
+    "lng": -122.1476,
+    "website": "https://www.hp.com/",
+    "logo": "https://logo.clearbit.com/hp.com"
+  },
+  {
+    "name": "HPE",
+    "category": "hardware",
+    "description": "Hewlett Packard Enterprise — servers and networking",
+    "address": "6280 America Center Dr, San Jose, CA 95002",
+    "lat": 37.4163,
+    "lng": -121.9276,
+    "website": "https://www.hpe.com/",
+    "logo": "https://logo.clearbit.com/hpe.com"
+  },
+  {
+    "name": "Western Digital",
+    "category": "hardware",
+    "description": "Data storage devices and solutions",
+    "address": "5601 Great Oaks Pkwy, San Jose, CA 95119",
+    "lat": 37.2465,
+    "lng": -121.835,
+    "website": "https://www.westerndigital.com/",
+    "logo": "https://logo.clearbit.com/westerndigital.com"
+  },
+  {
+    "name": "Genentech",
+    "category": "health",
+    "description": "Biotechnology pioneer — part of Roche Group",
+    "address": "1 DNA Way, South San Francisco, CA 94080",
+    "lat": 37.638,
+    "lng": -122.396,
+    "website": "https://www.gene.com/",
+    "logo": "https://logo.clearbit.com/gene.com"
+  },
+  {
+    "name": "Gilead Sciences",
+    "category": "health",
+    "description": "Biopharmaceuticals — antiviral therapies",
+    "address": "333 Lakeside Dr, Foster City, CA 94404",
+    "lat": 37.5585,
+    "lng": -122.2612,
+    "website": "https://www.gilead.com/",
+    "logo": "https://logo.clearbit.com/gilead.com"
+  },
+  {
+    "name": "23andMe",
+    "category": "health",
+    "description": "Personal genomics and biotechnology",
+    "address": "223 N Mathilda Ave, Sunnyvale, CA 94086",
+    "lat": 37.3886,
+    "lng": -122.0302,
+    "website": "https://www.23andme.com/",
+    "logo": "https://logo.clearbit.com/23andme.com"
+  },
+  {
+    "name": "Stripe",
+    "category": "fintech",
+    "description": "Payment infrastructure for the internet",
+    "address": "354 Oyster Point Blvd, South San Francisco, CA 94080",
+    "lat": 37.6515,
+    "lng": -122.4002,
+    "website": "https://stripe.com/",
+    "logo": "https://logo.clearbit.com/stripe.com"
+  },
+  {
+    "name": "Airbnb",
+    "category": "consumer",
+    "description": "Online marketplace for short-term homestays",
+    "address": "888 Brannan St, San Francisco, CA 94103",
+    "lat": 37.772,
+    "lng": -122.4032,
+    "website": "https://www.airbnb.com/",
+    "logo": "https://logo.clearbit.com/airbnb.com"
+  },
+  {
+    "name": "DoorDash",
+    "category": "logistics",
+    "description": "Food delivery in 600+ cities",
+    "address": "303 2nd St, South Tower FL 8, San Francisco, CA 94107",
+    "lat": 37.7852,
+    "lng": -122.3972,
+    "website": "https://www.doordash.com/",
+    "logo": "https://logo.clearbit.com/doordash.com"
+  },
+  {
+    "name": "Dropbox",
+    "category": "saas",
+    "description": "Cloud file storage and collaboration",
+    "address": "1800 Owens St, San Francisco, CA 94158",
+    "lat": 37.7669,
+    "lng": -122.3937,
+    "website": "https://www.dropbox.com/",
+    "logo": "https://logo.clearbit.com/dropbox.com"
+  }
+]

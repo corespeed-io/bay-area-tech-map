@@ -1,0 +1,72 @@
+name: Add a Company
+description: Submit a new company to the Bay Area Tech Map
+title: "[Add Company] "
+labels: ["new-company"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! Please fill out the info below. We'll verify the address before adding it.
+
+  - type: input
+    id: name
+    attributes:
+      label: Company Name
+      placeholder: e.g. Acme Corp
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - ai
+        - fintech
+        - saas
+        - consumer
+        - dev-tools
+        - logistics
+        - commerce
+        - health
+        - education
+        - hr
+        - security
+        - hardware
+        - design
+        - data
+        - auto
+        - real-estate
+    validations:
+      required: true
+
+  - type: input
+    id: address
+    attributes:
+      label: Office Address
+      description: Must be a real physical office in the Bay Area (no PO boxes or virtual addresses)
+      placeholder: e.g. 415 Mission St, San Francisco, CA 94105
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: Website
+      placeholder: e.g. https://example.com
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Brief one-line description of the company (under 80 characters)
+      placeholder: e.g. AI-powered customer support platform
+    validations:
+      required: true
+
+  - type: textarea
+    id: proof
+    attributes:
+      label: Address Verification
+      description: How can we verify this address? (e.g. link to privacy policy, SEC filing, about page)
+      placeholder: e.g. Listed on their privacy policy at https://example.com/privacy
