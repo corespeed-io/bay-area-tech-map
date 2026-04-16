@@ -1951,5 +1951,275 @@
     "lng": -122.3937,
     "website": "https://www.dropbox.com/",
     "logo": "https://logo.clearbit.com/dropbox.com"
+  },
+  {
+    "name": "Physical Intelligence",
+    "category": "ai",
+    "description": "General-purpose AI foundation models for robotics",
+    "address": "396 Treat Ave, San Francisco, CA 94110",
+    "lat": 37.7629,
+    "lng": -122.4122,
+    "website": "https://www.physicalintelligence.company/",
+    "logo": "https://logo.clearbit.com/physicalintelligence.company"
+  },
+  {
+    "name": "Cognition",
+    "category": "ai",
+    "description": "Autonomous AI software engineer (Devin)",
+    "address": "1875 Mission St, San Francisco, CA 94103",
+    "lat": 37.7691,
+    "lng": -122.4196,
+    "website": "https://cognition.ai/",
+    "logo": "https://logo.clearbit.com/cognition.ai"
+  },
+  {
+    "name": "Magic",
+    "category": "ai",
+    "description": "Frontier AI models for software engineering",
+    "address": "580 California St, Floor 12, San Francisco, CA 94104",
+    "lat": 37.7929,
+    "lng": -122.4040,
+    "website": "https://magic.dev/",
+    "logo": "https://logo.clearbit.com/magic.dev"
+  },
+  {
+    "name": "Adept",
+    "category": "ai",
+    "description": "Foundation models that take actions in software",
+    "address": "350 Rhode Island St, Suite 400, San Francisco, CA 94103",
+    "lat": 37.7658,
+    "lng": -122.4030,
+    "website": "https://www.adept.ai/",
+    "logo": "https://logo.clearbit.com/adept.ai"
+  },
+  {
+    "name": "Midjourney",
+    "category": "ai",
+    "description": "Generative image AI research lab",
+    "address": "611 Gateway Blvd, Suite 120, South San Francisco, CA 94080",
+    "lat": 37.6586,
+    "lng": -122.4133,
+    "website": "https://www.midjourney.com/",
+    "logo": "https://logo.clearbit.com/midjourney.com"
+  },
+  {
+    "name": "Pika",
+    "category": "ai",
+    "description": "AI-powered video generation platform",
+    "address": "849 High St, Palo Alto, CA 94301",
+    "lat": 37.4485,
+    "lng": -122.1611,
+    "website": "https://pika.art/",
+    "logo": "https://logo.clearbit.com/pika.art"
+  },
+  {
+    "name": "Luma AI",
+    "category": "ai",
+    "description": "Multimodal foundation models for video and 3D",
+    "address": "444 High St, Suite 200, Palo Alto, CA 94301",
+    "lat": 37.4462,
+    "lng": -122.1612,
+    "website": "https://lumalabs.ai/",
+    "logo": "https://logo.clearbit.com/lumalabs.ai"
+  },
+  {
+    "name": "Windsurf",
+    "category": "dev-tools",
+    "description": "AI-native IDE for software development (formerly Codeium)",
+    "address": "900 Villa St, Mountain View, CA 94041",
+    "lat": 37.3880,
+    "lng": -122.0826,
+    "website": "https://windsurf.com/",
+    "logo": "https://logo.clearbit.com/windsurf.com"
+  },
+  {
+    "name": "Sourcegraph",
+    "category": "dev-tools",
+    "description": "Code intelligence platform and AI coding assistant",
+    "address": "400 Montgomery St, 6th Floor, San Francisco, CA 94104",
+    "lat": 37.7944,
+    "lng": -122.4023,
+    "website": "https://sourcegraph.com/",
+    "logo": "https://logo.clearbit.com/sourcegraph.com"
+  },
+  {
+    "name": "Writer",
+    "category": "ai",
+    "description": "Full-stack generative AI platform for enterprises",
+    "address": "111 Maiden Ln, 4th Floor, San Francisco, CA 94108",
+    "lat": 37.7887,
+    "lng": -122.4042,
+    "website": "https://writer.com/",
+    "logo": "https://logo.clearbit.com/writer.com"
+  },
+  {
+    "name": "Otter.ai",
+    "category": "ai",
+    "description": "AI meeting assistant for real-time transcription and notes",
+    "address": "800 W El Camino Real, Suite 170, Mountain View, CA 94040",
+    "lat": 37.3931,
+    "lng": -122.0912,
+    "website": "https://otter.ai/",
+    "logo": "https://logo.clearbit.com/otter.ai"
+  },
+  {
+    "name": "You.com",
+    "category": "ai",
+    "description": "AI productivity engine and agentic search",
+    "address": "228 Hamilton Ave, Floor 3, Palo Alto, CA 94301",
+    "lat": 37.4473,
+    "lng": -122.1590,
+    "website": "https://you.com/",
+    "logo": "https://logo.clearbit.com/you.com"
+  },
+  {
+    "name": "Lambda",
+    "category": "ai",
+    "description": "GPU cloud and hardware for training and inference",
+    "address": "2510 Zanker Rd, San Jose, CA 95131",
+    "lat": 37.3920,
+    "lng": -121.9330,
+    "website": "https://lambdalabs.com/",
+    "logo": "https://logo.clearbit.com/lambdalabs.com"
+  },
+  {
+    "name": "Fireworks AI",
+    "category": "ai",
+    "description": "Generative AI inference platform for production apps",
+    "address": "2317 Broadway, Suite 200, Redwood City, CA 94063",
+    "lat": 37.4870,
+    "lng": -122.2300,
+    "website": "https://fireworks.ai/",
+    "logo": "https://logo.clearbit.com/fireworks.ai"
+  },
+  {
+    "name": "Arize AI",
+    "category": "ai",
+    "description": "ML observability and LLM evaluation platform",
+    "address": "740 Edgewood Ave, Mill Valley, CA 94941",
+    "lat": 37.9062,
+    "lng": -122.5440,
+    "website": "https://arize.com/",
+    "logo": "https://logo.clearbit.com/arize.com"
+  },
+  {
+    "name": "Mercor",
+    "category": "ai",
+    "description": "AI-driven marketplace connecting talent with AI labs",
+    "address": "181 Fremont St, San Francisco, CA 94105",
+    "lat": 37.7903,
+    "lng": -122.3930,
+    "website": "https://www.mercor.com/",
+    "logo": "https://logo.clearbit.com/mercor.com"
+  },
+  {
+    "name": "Cresta",
+    "category": "ai",
+    "description": "Conversational AI platform for contact centers",
+    "address": "540 Bryant St, Suite 200, Palo Alto, CA 94301",
+    "lat": 37.4492,
+    "lng": -122.1629,
+    "website": "https://cresta.com/",
+    "logo": "https://logo.clearbit.com/cresta.com"
+  },
+  {
+    "name": "Sanas",
+    "category": "ai",
+    "description": "Real-time speech AI for accent translation",
+    "address": "437 Lytton Ave, Suite 200, Palo Alto, CA 94301",
+    "lat": 37.4483,
+    "lng": -122.1593,
+    "website": "https://www.sanas.ai/",
+    "logo": "https://logo.clearbit.com/sanas.ai"
+  },
+  {
+    "name": "Hippocratic AI",
+    "category": "health",
+    "description": "Safety-focused generative AI for healthcare",
+    "address": "167 Hamilton Ave, Floor 3, Palo Alto, CA 94301",
+    "lat": 37.4475,
+    "lng": -122.1605,
+    "website": "https://www.hippocraticai.com/",
+    "logo": "https://logo.clearbit.com/hippocraticai.com"
+  },
+  {
+    "name": "Ambience Healthcare",
+    "category": "health",
+    "description": "AI operating system for healthcare documentation",
+    "address": "814 Mission St, San Francisco, CA 94103",
+    "lat": 37.7844,
+    "lng": -122.4065,
+    "website": "https://www.ambiencehealthcare.com/",
+    "logo": "https://logo.clearbit.com/ambiencehealthcare.com"
+  },
+  {
+    "name": "Augmedix",
+    "category": "health",
+    "description": "Ambient AI medical documentation platform",
+    "address": "111 Sutter St, Suite 1300, San Francisco, CA 94104",
+    "lat": 37.7910,
+    "lng": -122.4034,
+    "website": "https://www.augmedix.com/",
+    "logo": "https://logo.clearbit.com/augmedix.com"
+  },
+  {
+    "name": "Insitro",
+    "category": "health",
+    "description": "Machine-learning-driven drug discovery platform",
+    "address": "279 East Grand Ave, South San Francisco, CA 94080",
+    "lat": 37.6591,
+    "lng": -122.3988,
+    "website": "https://www.insitro.com/",
+    "logo": "https://logo.clearbit.com/insitro.com"
+  },
+  {
+    "name": "Xaira Therapeutics",
+    "category": "health",
+    "description": "AI-driven therapeutics, generative biology and chemistry",
+    "address": "700 Gateway Blvd, South San Francisco, CA 94080",
+    "lat": 37.6519,
+    "lng": -122.4017,
+    "website": "https://www.xaira.com/",
+    "logo": "https://logo.clearbit.com/xaira.com"
+  },
+  {
+    "name": "Galileo",
+    "category": "ai",
+    "description": "AI evaluation and observability platform",
+    "address": "525 Brannan St, San Francisco, CA 94107",
+    "lat": 37.7800,
+    "lng": -122.3937,
+    "website": "https://galileo.ai/",
+    "logo": "https://logo.clearbit.com/galileo.ai"
+  },
+  {
+    "name": "Atomic AI",
+    "category": "health",
+    "description": "AI-driven RNA drug discovery",
+    "address": "329 Oyster Point Blvd, South San Francisco, CA 94080",
+    "lat": 37.6568,
+    "lng": -122.3848,
+    "website": "https://atomic.ai/",
+    "logo": "https://logo.clearbit.com/atomic.ai"
+  },
+  {
+    "name": "Ema",
+    "category": "ai",
+    "description": "Universal AI employee for the enterprise",
+    "address": "147 Castro St, Suite 2, Mountain View, CA 94041",
+    "lat": 37.3940,
+    "lng": -122.0791,
+    "website": "https://www.ema.co/",
+    "logo": "https://logo.clearbit.com/ema.co"
+  },
+  {
+    "name": "Rad AI",
+    "category": "health",
+    "description": "Generative AI for radiology workflow and reporting",
+    "address": "1936 University Ave, Suite 280, Berkeley, CA 94704",
+    "lat": 37.8716,
+    "lng": -122.2730,
+    "website": "https://www.radai.com/",
+    "logo": "https://logo.clearbit.com/radai.com"
   }
 ]
