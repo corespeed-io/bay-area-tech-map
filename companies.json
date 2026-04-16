@@ -1951,5 +1951,285 @@
     "lng": -122.3937,
     "website": "https://www.dropbox.com/",
     "logo": "https://logo.clearbit.com/dropbox.com"
+  },
+  {
+    "name": "Moveworks",
+    "category": "ai",
+    "description": "AI copilot and agents for enterprise IT and HR support",
+    "address": "1400 Terra Bella Ave, Mountain View, CA 94043",
+    "lat": 37.4187,
+    "lng": -122.0784,
+    "website": "https://www.moveworks.com/",
+    "logo": "https://logo.clearbit.com/moveworks.com"
+  },
+  {
+    "name": "Observe.AI",
+    "category": "ai",
+    "description": "AI agents and conversation intelligence for contact centers",
+    "address": "275 Shoreline Dr, Suite 450, Redwood City, CA 94065",
+    "lat": 37.5340,
+    "lng": -122.2470,
+    "website": "https://www.observe.ai/",
+    "logo": "https://logo.clearbit.com/observe.ai"
+  },
+  {
+    "name": "Snorkel AI",
+    "category": "ai",
+    "description": "Data-centric AI development platform for enterprises",
+    "address": "55 Perry St, Redwood City, CA 94063",
+    "lat": 37.4852,
+    "lng": -122.2309,
+    "website": "https://snorkel.ai/",
+    "logo": "https://logo.clearbit.com/snorkel.ai"
+  },
+  {
+    "name": "Gong",
+    "category": "ai",
+    "description": "AI-powered revenue intelligence platform",
+    "address": "201 Spear St, 13th Floor, San Francisco, CA 94105",
+    "lat": 37.7911,
+    "lng": -122.3930,
+    "website": "https://www.gong.io/",
+    "logo": "https://logo.clearbit.com/gong.io"
+  },
+  {
+    "name": "Covariant",
+    "category": "ai",
+    "description": "Foundation models for robotic manipulation and warehousing",
+    "address": "5905 Christie Ave, Emeryville, CA 94608",
+    "lat": 37.8407,
+    "lng": -122.2950,
+    "website": "https://covariant.ai/",
+    "logo": "https://logo.clearbit.com/covariant.ai"
+  },
+  {
+    "name": "Collaborative Robotics",
+    "category": "hardware",
+    "description": "General-purpose cobots for logistics and manufacturing",
+    "address": "2250 Walsh Ave, Santa Clara, CA 95050",
+    "lat": 37.3787,
+    "lng": -121.9800,
+    "website": "https://www.co.bot/",
+    "logo": "https://logo.clearbit.com/co.bot"
+  },
+  {
+    "name": "Dexterity",
+    "category": "hardware",
+    "description": "AI-powered robots for warehouses and logistics",
+    "address": "1205 Veterans Blvd, Redwood City, CA 94063",
+    "lat": 37.4944,
+    "lng": -122.2327,
+    "website": "https://www.dexterity.ai/",
+    "logo": "https://logo.clearbit.com/dexterity.ai"
+  },
+  {
+    "name": "Nimble Robotics",
+    "category": "hardware",
+    "description": "Autonomous robots for e-commerce fulfillment",
+    "address": "488 8th St, San Francisco, CA 94103",
+    "lat": 37.7746,
+    "lng": -122.4085,
+    "website": "https://www.nimblerobotics.com/",
+    "logo": "https://logo.clearbit.com/nimblerobotics.com"
+  },
+  {
+    "name": "Etched",
+    "category": "hardware",
+    "description": "Transformer-specific ASIC chips for AI inference",
+    "address": "20400 Stevens Creek Blvd, Suite 150, Cupertino, CA 95014",
+    "lat": 37.3229,
+    "lng": -122.0308,
+    "website": "https://www.etched.com/",
+    "logo": "https://logo.clearbit.com/etched.com"
+  },
+  {
+    "name": "Lightmatter",
+    "category": "hardware",
+    "description": "Photonic compute and interconnect for AI data centers",
+    "address": "800 W El Camino Real, Suite 350, Mountain View, CA 94040",
+    "lat": 37.3931,
+    "lng": -122.0912,
+    "website": "https://lightmatter.co/",
+    "logo": "https://logo.clearbit.com/lightmatter.co"
+  },
+  {
+    "name": "d-Matrix",
+    "category": "hardware",
+    "description": "Digital in-memory compute chips for generative AI inference",
+    "address": "5201 Great America Pkwy, Suite 300, Santa Clara, CA 95054",
+    "lat": 37.4026,
+    "lng": -121.9794,
+    "website": "https://www.d-matrix.ai/",
+    "logo": "https://logo.clearbit.com/d-matrix.ai"
+  },
+  {
+    "name": "Descript",
+    "category": "ai",
+    "description": "AI-powered audio and video editor with voice cloning",
+    "address": "385 Grove St, San Francisco, CA 94102",
+    "lat": 37.7783,
+    "lng": -122.4258,
+    "website": "https://www.descript.com/",
+    "logo": "https://logo.clearbit.com/descript.com"
+  },
+  {
+    "name": "Abnormal Security",
+    "category": "security",
+    "description": "AI-native cloud email security platform",
+    "address": "185 Clara St, Suite 100, San Francisco, CA 94107",
+    "lat": 37.7809,
+    "lng": -122.4020,
+    "website": "https://abnormalsecurity.com/",
+    "logo": "https://logo.clearbit.com/abnormalsecurity.com"
+  },
+  {
+    "name": "Material Security",
+    "category": "security",
+    "description": "Detection and response for cloud office and email",
+    "address": "1003 Main St, Redwood City, CA 94063",
+    "lat": 37.4860,
+    "lng": -122.2310,
+    "website": "https://material.security/",
+    "logo": "https://logo.clearbit.com/material.security"
+  },
+  {
+    "name": "Exa",
+    "category": "ai",
+    "description": "Web search API built for LLMs and agents",
+    "address": "430 Shotwell St, San Francisco, CA 94110",
+    "lat": 37.7631,
+    "lng": -122.4148,
+    "website": "https://exa.ai/",
+    "logo": "https://logo.clearbit.com/exa.ai"
+  },
+  {
+    "name": "Clari",
+    "category": "saas",
+    "description": "Revenue orchestration and forecasting platform",
+    "address": "1154 Sonora Ct, Sunnyvale, CA 94086",
+    "lat": 37.3691,
+    "lng": -122.0094,
+    "website": "https://www.clari.com/",
+    "logo": "https://logo.clearbit.com/clari.com"
+  },
+  {
+    "name": "EnCharge AI",
+    "category": "hardware",
+    "description": "Analog in-memory compute chips for efficient AI inference",
+    "address": "4500 Great America Pkwy, Suite 230, Santa Clara, CA 95054",
+    "lat": 37.4058,
+    "lng": -121.9784,
+    "website": "https://www.enchargeai.com/",
+    "logo": "https://logo.clearbit.com/enchargeai.com"
+  },
+  {
+    "name": "Uniphore",
+    "category": "ai",
+    "description": "Multimodal conversational AI for enterprise customer service",
+    "address": "1001 Page Mill Rd, Building 2, Palo Alto, CA 94304",
+    "lat": 37.4105,
+    "lng": -122.1492,
+    "website": "https://www.uniphore.com/",
+    "logo": "https://logo.clearbit.com/uniphore.com"
+  },
+  {
+    "name": "BigHat Biosciences",
+    "category": "health",
+    "description": "Machine-learning-driven antibody design platform",
+    "address": "1900 Alameda de las Pulgas, San Mateo, CA 94403",
+    "lat": 37.5530,
+    "lng": -122.3384,
+    "website": "https://www.bighatbio.com/",
+    "logo": "https://logo.clearbit.com/bighatbio.com"
+  },
+  {
+    "name": "Inflection AI",
+    "category": "ai",
+    "description": "Enterprise AI platform and foundation models",
+    "address": "650 Page Mill Rd, Palo Alto, CA 94304",
+    "lat": 37.4134,
+    "lng": -122.1519,
+    "website": "https://inflection.ai/",
+    "logo": "https://logo.clearbit.com/inflection.ai"
+  },
+  {
+    "name": "EvenUp",
+    "category": "ai",
+    "description": "Generative AI platform for personal injury legal work",
+    "address": "353 Sacramento St, San Francisco, CA 94111",
+    "lat": 37.7945,
+    "lng": -122.4012,
+    "website": "https://www.evenuplaw.com/",
+    "logo": "https://logo.clearbit.com/evenuplaw.com"
+  },
+  {
+    "name": "H2O.ai",
+    "category": "ai",
+    "description": "Open-source AI platform for predictive and generative AI",
+    "address": "2307 Leghorn St, Mountain View, CA 94043",
+    "lat": 37.4138,
+    "lng": -122.0878,
+    "website": "https://h2o.ai/",
+    "logo": "https://logo.clearbit.com/h2o.ai"
+  },
+  {
+    "name": "Bland AI",
+    "category": "ai",
+    "description": "Enterprise platform for AI phone agents",
+    "address": "292 Ivy St, San Francisco, CA 94102",
+    "lat": 37.7774,
+    "lng": -122.4242,
+    "website": "https://www.bland.ai/",
+    "logo": "https://logo.clearbit.com/bland.ai"
+  },
+  {
+    "name": "Kodiak AI",
+    "category": "auto",
+    "description": "Autonomous driving software for long-haul trucking",
+    "address": "1045 Terra Bella Ave, Mountain View, CA 94043",
+    "lat": 37.4175,
+    "lng": -122.0779,
+    "website": "https://kodiak.ai/",
+    "logo": "https://logo.clearbit.com/kodiak.ai"
+  },
+  {
+    "name": "Vapi",
+    "category": "ai",
+    "description": "Voice AI platform for developers building phone agents",
+    "address": "760 Market St, 11th Floor, San Francisco, CA 94102",
+    "lat": 37.7866,
+    "lng": -122.4057,
+    "website": "https://vapi.ai/",
+    "logo": "https://logo.clearbit.com/vapi.ai"
+  },
+  {
+    "name": "LlamaIndex",
+    "category": "ai",
+    "description": "Open-source framework and platform for LLM data applications",
+    "address": "325 5th St, San Francisco, CA 94107",
+    "lat": 37.7788,
+    "lng": -122.4039,
+    "website": "https://www.llamaindex.ai/",
+    "logo": "https://logo.clearbit.com/llamaindex.ai"
+  },
+  {
+    "name": "MindsDB",
+    "category": "ai",
+    "description": "AI data platform bringing ML into databases",
+    "address": "3154 17th St, San Francisco, CA 94110",
+    "lat": 37.7633,
+    "lng": -122.4152,
+    "website": "https://mindsdb.com/",
+    "logo": "https://logo.clearbit.com/mindsdb.com"
+  },
+  {
+    "name": "Rain AI",
+    "category": "hardware",
+    "description": "Brain-inspired neuromorphic chips for AI",
+    "address": "1747 Broadway St, Redwood City, CA 94063",
+    "lat": 37.4884,
+    "lng": -122.2345,
+    "website": "https://rain.ai/",
+    "logo": "https://logo.clearbit.com/rain.ai"
   }
 ]
