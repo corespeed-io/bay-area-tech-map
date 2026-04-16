@@ -1951,5 +1951,315 @@
     "lng": -122.3937,
     "website": "https://www.dropbox.com/",
     "logo": "https://logo.clearbit.com/dropbox.com"
+  },
+  {
+    "name": "Perplexity",
+    "category": "ai",
+    "description": "AI-powered answer engine and conversational search",
+    "address": "115 Sansome St, San Francisco, CA 94104",
+    "lat": 37.7939,
+    "lng": -122.4004,
+    "website": "https://www.perplexity.ai/",
+    "logo": "https://logo.clearbit.com/perplexity.ai"
+  },
+  {
+    "name": "Harvey",
+    "category": "ai",
+    "description": "Generative AI platform built for legal professionals",
+    "address": "201 3rd St, Suite 600, San Francisco, CA 94103",
+    "lat": 37.7859,
+    "lng": -122.4010,
+    "website": "https://www.harvey.ai/",
+    "logo": "https://logo.clearbit.com/harvey.ai"
+  },
+  {
+    "name": "Glean",
+    "category": "ai",
+    "description": "AI-powered enterprise search and work assistant",
+    "address": "260 Sheridan Ave, Suite 300, Palo Alto, CA 94306",
+    "lat": 37.4295,
+    "lng": -122.1419,
+    "website": "https://www.glean.com/",
+    "logo": "https://logo.clearbit.com/glean.com"
+  },
+  {
+    "name": "Sierra",
+    "category": "ai",
+    "description": "Conversational AI platform for customer experience",
+    "address": "235 2nd St, Floor 5, San Francisco, CA 94105",
+    "lat": 37.7875,
+    "lng": -122.3990,
+    "website": "https://sierra.ai/",
+    "logo": "https://logo.clearbit.com/sierra.ai"
+  },
+  {
+    "name": "Groq",
+    "category": "hardware",
+    "description": "Language Processing Unit (LPU) chips for fast AI inference",
+    "address": "400 Castro St, Mountain View, CA 94041",
+    "lat": 37.3939,
+    "lng": -122.0781,
+    "website": "https://groq.com/",
+    "logo": "https://logo.clearbit.com/groq.com"
+  },
+  {
+    "name": "Cerebras Systems",
+    "category": "hardware",
+    "description": "Wafer-scale chips for AI training and inference",
+    "address": "1237 E Arques Ave, Sunnyvale, CA 94085",
+    "lat": 37.3835,
+    "lng": -122.0082,
+    "website": "https://www.cerebras.ai/",
+    "logo": "https://logo.clearbit.com/cerebras.ai"
+  },
+  {
+    "name": "SambaNova Systems",
+    "category": "hardware",
+    "description": "Full-stack AI platform with purpose-built dataflow chips",
+    "address": "2200 Geng Road, Unit 100, Palo Alto, CA 94303",
+    "lat": 37.4435,
+    "lng": -122.1144,
+    "website": "https://sambanova.ai/",
+    "logo": "https://logo.clearbit.com/sambanova.ai"
+  },
+  {
+    "name": "Figure",
+    "category": "hardware",
+    "description": "General-purpose humanoid robots",
+    "address": "1247 Elko Drive, Sunnyvale, CA 94089",
+    "lat": 37.4140,
+    "lng": -122.0059,
+    "website": "https://www.figure.ai/",
+    "logo": "https://logo.clearbit.com/figure.ai"
+  },
+  {
+    "name": "Character.AI",
+    "category": "ai",
+    "description": "Consumer chatbot platform for creating AI characters",
+    "address": "700 El Camino Real, Suite 120, Menlo Park, CA 94025",
+    "lat": 37.4412,
+    "lng": -122.1810,
+    "website": "https://character.ai/",
+    "logo": "https://logo.clearbit.com/character.ai"
+  },
+  {
+    "name": "Mercury",
+    "category": "fintech",
+    "description": "Banking and financial tools for startups",
+    "address": "81 Langton St, Unit 4, San Francisco, CA 94103",
+    "lat": 37.7771,
+    "lng": -122.4125,
+    "website": "https://mercury.com/",
+    "logo": "https://logo.clearbit.com/mercury.com"
+  },
+  {
+    "name": "Carta",
+    "category": "fintech",
+    "description": "Equity management and cap table software for private companies",
+    "address": "333 Bush St, Floor 23, San Francisco, CA 94104",
+    "lat": 37.7911,
+    "lng": -122.4028,
+    "website": "https://carta.com/",
+    "logo": "https://logo.clearbit.com/carta.com"
+  },
+  {
+    "name": "Samsara",
+    "category": "saas",
+    "description": "Connected operations cloud for physical operations",
+    "address": "1 De Haro St, San Francisco, CA 94107",
+    "lat": 37.7680,
+    "lng": -122.4010,
+    "website": "https://www.samsara.com/",
+    "logo": "https://logo.clearbit.com/samsara.com"
+  },
+  {
+    "name": "Airtable",
+    "category": "saas",
+    "description": "Low-code platform for building collaborative apps",
+    "address": "799 Market St, 8th Floor, San Francisco, CA 94103",
+    "lat": 37.7847,
+    "lng": -122.4058,
+    "website": "https://airtable.com/",
+    "logo": "https://logo.clearbit.com/airtable.com"
+  },
+  {
+    "name": "Weights & Biases",
+    "category": "dev-tools",
+    "description": "Developer platform for machine learning experiment tracking",
+    "address": "1479 Folsom St, San Francisco, CA 94103",
+    "lat": 37.7719,
+    "lng": -122.4134,
+    "website": "https://wandb.ai/",
+    "logo": "https://logo.clearbit.com/wandb.ai"
+  },
+  {
+    "name": "LangChain",
+    "category": "ai",
+    "description": "Framework and platform for building LLM applications",
+    "address": "140 New Montgomery St, Floor 19, San Francisco, CA 94105",
+    "lat": 37.7869,
+    "lng": -122.4015,
+    "website": "https://www.langchain.com/",
+    "logo": "https://logo.clearbit.com/langchain.com"
+  },
+  {
+    "name": "Replicate",
+    "category": "ai",
+    "description": "Cloud platform for running open-source machine learning models",
+    "address": "101 Townsend St, San Francisco, CA 94107",
+    "lat": 37.7818,
+    "lng": -122.3931,
+    "website": "https://replicate.com/",
+    "logo": "https://logo.clearbit.com/replicate.com"
+  },
+  {
+    "name": "Ironclad",
+    "category": "saas",
+    "description": "AI-powered contract lifecycle management platform",
+    "address": "650 California St, Suite 1100, San Francisco, CA 94108",
+    "lat": 37.7925,
+    "lng": -122.4042,
+    "website": "https://ironcladapp.com/",
+    "logo": "https://logo.clearbit.com/ironcladapp.com"
+  },
+  {
+    "name": "Persona",
+    "category": "security",
+    "description": "Identity verification and KYC/KYB platform",
+    "address": "50 Beale St, Suite 1600, San Francisco, CA 94105",
+    "lat": 37.7910,
+    "lng": -122.3961,
+    "website": "https://withpersona.com/",
+    "logo": "https://logo.clearbit.com/withpersona.com"
+  },
+  {
+    "name": "Zipline",
+    "category": "logistics",
+    "description": "Autonomous drone delivery for healthcare and commerce",
+    "address": "333 Corey Way, South San Francisco, CA 94080",
+    "lat": 37.6501,
+    "lng": -122.4070,
+    "website": "https://www.flyzipline.com/",
+    "logo": "https://logo.clearbit.com/flyzipline.com"
+  },
+  {
+    "name": "Skydio",
+    "category": "hardware",
+    "description": "Autonomous drones for enterprise and public safety",
+    "address": "3000 Clearview Way, San Mateo, CA 94402",
+    "lat": 37.5353,
+    "lng": -122.3167,
+    "website": "https://www.skydio.com/",
+    "logo": "https://logo.clearbit.com/skydio.com"
+  },
+  {
+    "name": "Nuro",
+    "category": "auto",
+    "description": "Autonomous driving technology for delivery and passenger vehicles",
+    "address": "1300 Terra Bella Ave, Suite 100, Mountain View, CA 94043",
+    "lat": 37.4184,
+    "lng": -122.0765,
+    "website": "https://www.nuro.ai/",
+    "logo": "https://logo.clearbit.com/nuro.ai"
+  },
+  {
+    "name": "Niantic",
+    "category": "consumer",
+    "description": "AR gaming studio behind Pokémon GO and Ingress",
+    "address": "1 Ferry Building, Suite 200, San Francisco, CA 94111",
+    "lat": 37.7956,
+    "lng": -122.3937,
+    "website": "https://nianticlabs.com/",
+    "logo": "https://logo.clearbit.com/nianticlabs.com"
+  },
+  {
+    "name": "Box",
+    "category": "saas",
+    "description": "Cloud content management and collaboration platform",
+    "address": "900 Jefferson Ave, Redwood City, CA 94063",
+    "lat": 37.4875,
+    "lng": -122.2330,
+    "website": "https://www.box.com/",
+    "logo": "https://logo.clearbit.com/box.com"
+  },
+  {
+    "name": "Autodesk",
+    "category": "saas",
+    "description": "Design and engineering software for architecture, engineering, and construction",
+    "address": "1 Market St, Suite 400, San Francisco, CA 94105",
+    "lat": 37.7937,
+    "lng": -122.3950,
+    "website": "https://www.autodesk.com/",
+    "logo": "https://logo.clearbit.com/autodesk.com"
+  },
+  {
+    "name": "Wealthfront",
+    "category": "fintech",
+    "description": "Automated investing and cash management",
+    "address": "261 Hamilton Ave, Suite 10, Palo Alto, CA 94301",
+    "lat": 37.4466,
+    "lng": -122.1632,
+    "website": "https://www.wealthfront.com/",
+    "logo": "https://logo.clearbit.com/wealthfront.com"
+  },
+  {
+    "name": "Freshworks",
+    "category": "saas",
+    "description": "Customer and employee experience software suite",
+    "address": "2950 S Delaware St, Suite 201, San Mateo, CA 94403",
+    "lat": 37.5577,
+    "lng": -122.3125,
+    "website": "https://www.freshworks.com/",
+    "logo": "https://logo.clearbit.com/freshworks.com"
+  },
+  {
+    "name": "Grammarly",
+    "category": "saas",
+    "description": "AI writing assistant for grammar, clarity, and tone",
+    "address": "548 Market St, San Francisco, CA 94104",
+    "lat": 37.7897,
+    "lng": -122.4013,
+    "website": "https://www.grammarly.com/",
+    "logo": "https://logo.clearbit.com/grammarly.com"
+  },
+  {
+    "name": "Docusign",
+    "category": "saas",
+    "description": "Electronic signature and agreement management",
+    "address": "221 Main St, Suite 1550, San Francisco, CA 94105",
+    "lat": 37.7899,
+    "lng": -122.3934,
+    "website": "https://www.docusign.com/",
+    "logo": "https://logo.clearbit.com/docusign.com"
+  },
+  {
+    "name": "Pilot",
+    "category": "fintech",
+    "description": "Bookkeeping, tax, and CFO services for startups",
+    "address": "353 Sacramento St, Suite 1900, San Francisco, CA 94111",
+    "lat": 37.7945,
+    "lng": -122.4012,
+    "website": "https://pilot.com/",
+    "logo": "https://logo.clearbit.com/pilot.com"
+  },
+  {
+    "name": "Heap",
+    "category": "data",
+    "description": "Digital insights and product analytics platform",
+    "address": "225 Bush St, San Francisco, CA 94104",
+    "lat": 37.7908,
+    "lng": -122.4025,
+    "website": "https://heap.io/",
+    "logo": "https://logo.clearbit.com/heap.io"
+  },
+  {
+    "name": "Anyscale",
+    "category": "ai",
+    "description": "Managed Ray platform for scaling AI and Python workloads",
+    "address": "600 Harrison St, 4th Floor, San Francisco, CA 94107",
+    "lat": 37.7816,
+    "lng": -122.3968,
+    "website": "https://www.anyscale.com/",
+    "logo": "https://logo.clearbit.com/anyscale.com"
   }
 ]
